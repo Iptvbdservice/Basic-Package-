@@ -1,14 +1,21 @@
-#EXTM3U
-#EXTINF:-1 group-title="PLAYMAX | LIVE CRICKET CORNER" tvg-logo="https://crystalpng.com/wp-content/uploads/2022/06/pcb-logo.png" ,SERVER 1 ADDs FREE
-http://rolextv.asia/12345/54321/156492
-#EXTINF:-1 group-title="PLAYMAX | LIVE CRICKET CORNER" tvg-logo="https://crystalpng.com/wp-content/uploads/2022/06/pcb-logo.png" ,SERVER 2 FHD
-http://rolextv.asia/12345/54321/156494
-#EXTINF:-1 group-title="PLAYMAX | LIVE CRICKET CORNER" tvg-logo="https://crystalpng.com/wp-content/uploads/2022/06/pcb-logo.png" ,SERVER 3 FHD
-http://rolextv.asia/12345/54321/156858
-#EXTINF:-1 group-title="PLAYMAX | LIVE CRICKET CORNER" tvg-logo="https://crystalpng.com/wp-content/uploads/2022/06/pcb-logo.png" ,SERVER 4 FHD
-http://rolextv.asia/12345/54321/156859
-#EXTINF:-1 group-title="PLAYMAX | LIVE CRICKET CORNER" tvg-logo="https://crystalpng.com/wp-content/uploads/2022/06/pcb-logo.png" ,SERVER 5 FHD
-http://rolextv.asia/12345/54321/156860
+#EXTINF:-1 group-title="Today's Live Match" tvg-logo="https://banglatechclub.com/wp-content/uploads/2024/10/Bangladesh-Premier-League-5-780x470.jpg" ,BPL 2025
+http://rolextv.asia/12345/54321/27807
+#EXTINF:-1 group-title="Today's Live Match" tvg-logo="https://criczine.cricdiction.com/wp-content/uploads/2024/11/Sydney-Thunder-Women-vs-Perth-Scorchers-Women.jpg" ,Cricket Live 
+https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd?|drmScheme=clearkey&drmLicense=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,PTV Sports HD
+http://xtv.ooo:8080/810523/322522/220059
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,bdixiptvbd Ten sports HD
+http://xtv.ooo:8080/810523/322522/220060
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,bdixiptvbd Willow Live 
+http://xtv.ooo:8080/810523/322522/220061
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,bdixiptvbd Star Sports 1HD
+http://xtv.ooo:8080/810523/322522/220062
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,bdixiptvbd Star Sports Hindi1 HD
+http://xtv.ooo:8080/810523/322522/220063
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,bdixiptvbd Sky Sports Cricket 
+http://xtv.ooo:8080/810523/322522/220064
+#EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,bdixiptvbd server 7
+http://xtv.ooo:8080/810523/322522/220065
 #EXTINF:-1 group-title="PLAYMAX | LIVE CRICKET CORNER" tvg-logo="https://rolextv.asia:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dSujZRjj5gmEwhFH-Ha0DU4-BVXNF4OzWICez8JHqR5dA.png" ,SONY SPORTS 5 FHD
 http://rolextv.asia/12345/54321/172944
 #EXTINF:-1 group-title="PLAYMAX | FOOTBALL CORNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg" ,Sky Sports Football (FHD)
