@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Bangladeshi",Btv world
 http://172.105.123.238:18002/play/a038
@@ -29,13 +28,13 @@ http://node-19.zeno.fm/yaqpcmhxe48uv?rj-ttl=5&rj-tok=AAABfgXkCqUAo83RYDSRIcag4Q
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/9ed84155030723.Y3JvcCw3NTIsNTg4LDEwMCwxMzc.jpg" group-title="Fm radio ð»",Jago fm 94.4
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHaCwYVv0_znaIL8-h7p-dd1JEd1lqiJ0ZQ&s" group-title="Fm radio ð»",Radio capital 94.8
-http://str.radiocapital.fm:8000/stream
+https://vz-422a9f06-c69.b-cdn.net/f423ee65-6804-41d5-90b1-bd8306cc0c6a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="Fm radio ð»",Spice fm 96.4
-https://stream.spicefmbd.com/stream.m3u8
+https://vz-422a9f06-c69.b-cdn.net/f423ee65-6804-41d5-90b1-bd8306cc0c6a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkMLex_2_VfVFnr4xuaxDEhw4vwZY8TPizQ&s" group-title="Fm radio ð»",Radio padma 99.2
-http://cassini.shoutca.st:9109/radiopadma.mp3
+https://vz-422a9f06-c69.b-cdn.net/f423ee65-6804-41d5-90b1-bd8306cc0c6a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C510BAQFg5ki4t_4LHg/company-logo_200_200/0/1630595646263?e=2147483647&v=beta&t=uFtad4qTVI78Gtin7RvaY9BptIGaFPTqFl7ksRM3Zwk" group-title="Fm radio ð»",Bu radio
-https://stream-176.zeno.fm/x3wb4hevj5atv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4M3diNGhldmo1YXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhNNldSM19IVDVHQkdiT0N4WnlITkEiLCJpYXQiOjE3MjY2NDU2NjMsImV4cCI6MTcyNjY0NTcyM30.gPXkMieQAgfNoINGpyPFyZDFZFGN3L3T49BbtKhr0Hs
+https://vz-422a9f06-c69.b-cdn.net/f423ee65-6804-41d5-90b1-bd8306cc0c6a/playlist.m3u8UsImp0aSI6IjhNNldSM19IVDVHQkdiT0N4WnlITkEiLCJpYXQiOjE3MjY2NDU2NjMsImV4cCI6MTcyNjY0NTcyM30.gPXkMieQAgfNoINGpyPFyZDFZFGN3L3T49BbtKhr0Hs
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" group-title="Indian news",Abp ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Tv9bangla.png/revision/latest/scale-to-width-down/280?cb=20210509173815" group-title="Indian news",Tv9 bangla
