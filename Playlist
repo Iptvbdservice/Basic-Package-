@@ -1,5 +1,8 @@
+EXTM3U
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , Jisme Mein Tera Shakib Khan (2024)
 https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , ZINDAGI TUJHSE Shakib Khan (2024)
+https://vz-ce272881-d38.b-cdn.net/62b501d6-b65e-402e-a68f-868e2718426b/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Bangladeshi",Btv world
 http://172.105.123.238:18002/play/a038
