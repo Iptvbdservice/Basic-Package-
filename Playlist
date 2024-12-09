@@ -17,7 +17,7 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=TclAWUBTBn3y
 https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=qJmEpSY-JF-rPo6p7Wt8IA&expires=1733850201&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-name="Al Jazeera English HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" tvg-id="<built-in function id>" group-title="🅒🅓🅝",Al Jazeera English HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aljazeera.stream/playlist.m3u8 
+https://vz-422a9f06-c69.b-cdn.net/b577221d-d2de-451e-8d01-6b95e73bed58/playlist.m3u8 
 #EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" tvg-id="<built-in function id>" group-title="🅒🅓🅝",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8  
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" tvg-id="<built-in function id>" group-title="🅒🅓🅝",Arirang
@@ -181,7 +181,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=93&uid=4166&deviceMac=00:1A:79:F3:9F:
 #EXTINF:-1 group-title="BENGALI" tvg-logo="http://ujm.from-in.com/panel/imageicon/cdfa406.png" ,BD: DHOOM MUSIC BANGLA
 http://tv.cloudcdn.me:80/live.ts?channelId=94&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:-1 group-title="BENGALI" tvg-logo="http://ujm.from-in.com/panel/imageicon/69fbad8.png" ,BD: Discovery Channel Bengali
-http://tv.cloudcdn.me:80/live.ts?channelId=44153&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+http://ktv.im:8080/live/678900/678900/86102.ts
 #EXTINF:-1 group-title="BENGALI" tvg-logo="http://ujm.from-in.com/panel/imageicon/40bbf33.png" ,BD: Duronto TV
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:-1 group-title="BENGALI" tvg-logo="http://ujm.from-in.com/panel/imageicon/1b0585e.png" ,BD: EKATTOR TV FHD
@@ -278,7 +278,7 @@ https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/Investigation-discovery
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/discovery-inc/images/c/cf/TLC.png/revision/latest/scale-to-width-down/340?cb=20240107214428" ,Tlc
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/Tlc.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQzwTU_MISqranFXUQmCNzsvEYReSlkP_yw&s" ,Discovery
-https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/Discovery.m3u8
+http://ktv.im:8080/live/678900/678900/86102.ts
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" ,Food-network
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/Food-network.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqxE2DRyY93_PJMONS_gF3zSiyDob-u4RWQ&s" ,Travel-channel
