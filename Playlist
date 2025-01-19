@@ -11,7 +11,6 @@ https://vz-ce272881-d38.b-cdn.net/24bef6f4-475a-4c56-ad4f-de8adc493a03/playlist.
 https://vz-ce272881-d38.b-cdn.net/31cfddcd-b6df-4292-a4cd-c40299612353/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/992b6a4d-1582-4aed-9b04-6b48ea7917a6/thumbnail_76c6e260.jpg" , Sanai NATOK SONG 
 https://vz-ce272881-d38.b-cdn.net/992b6a4d-1582-4aed-9b04-6b48ea7917a6/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="🅒🅓🅝",ATN 
 #EXTINF:-1 group-title="BENGALI" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b3825e.png" ,BD: AAKASH AATH BANGLA
 http://tv.cloudcdn.me:80/live.ts?channelId=79&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:-1 group-title="BENGALI" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" ,BD: ABP ANANDA FHD
@@ -171,7 +170,7 @@ http://xtv.ooo:8080/810523/322522/220064
 http://xtv.ooo:8080/810523/322522/220065
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESHI MOVIE & SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MmE2YzItNjQ5YS00ODZkLTliNGQtZjgzZjk0YjdjOGU2XkEyXkFqcGc@._V1_QL75_UX490_.jpg" ,DARD & Dorod(2024)
-https://ngr2dnwrdasv7gvg.pradoi.com/hls2/01/06055/hof2vjllmbyy_n/index-v1-a1.m3u8?t=QTr_KoDWHV0_9PQQbyVEfwQZI5WWgvfdHo0fO4xXgBI&s=1732096844&e=129600&f=30320544&srv=Gy4KXLg7mXRDXE7k&i=0.0&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=24432
+https://pixeldra.in/api/file/xpsigoJj?download
 #EXTINF:-1 group-title="BANGLADESHI MOVIE & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Stree_2.jpg" ,Stree 2 Horror Movie Bangla Dubbed (2024)
 https://ottbangla.sliposnc.workers.dev/0:/Stree.2.2024.Bengali Dubbed Ottbangla.lol.mp4
 #EXTINF:-1 group-title="BANGLADESHI MOVIE & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Bossgiri.jpg" ,Boss Giri (2016)
