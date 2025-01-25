@@ -1122,7 +1122,6 @@ http://portal-iptv.net:8080/345365284895/345365284895/47818.mkv
 http://portal-iptv.net:8080/345365284895/345365284895/47819.mkv
 #EXTINF:-1 group-title="INDIAN MOVIE IPTV BD SERVICE" tvg-logo="https://i.egycdn.com/pic/WmFwZndlY21URW1FbXZtdm1ZYWNteGpLeHZjeG1vdw.jpg" ,Zero-2018
 http://portal-iptv.net:8080/345365284895/345365284895/47820.mkv
-
 #EXTM3U
 #EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="http://go4.pw/bein/bein-sports-special.png" ,##### BEIN SPORTS HEVC #####
 http://atg100.xyz:80/UL33K17/SYC4T9D/309057
@@ -2635,9 +2634,9 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/76197
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/BANGALAABPANANDA.png" ,BANGLA - BANGALA ABP ANANDA
 http://atg100.xyz:80/UL33K17/SYC4T9D/76189
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVEoiFPEfblM-QQ7xQ8XxW9b4lsBnqWRNmNy6JOLuHTA3q5i1NScDyF_zm2tqeEvu7oMnfYj_dQZdeQ5K2HXCQ6MOa7WFFUbxcUeaYKA0CzAyo_WWqhb6voFLEqI-K4PJzhagV19b-TVTUpZj9TtXrvOBfDY0dFr08KFw8R_at4ywGKDhe-080nipK7Jk/s320/20241224_180722.png" tvg-id="tv1.in" ,VISION HD
-https://74e2ba99bffa.entrypoint.cloud.wowza.com/app-h17r8W58/ngrp:a706813f_all/playlist.m3u8
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/5c81336f-3fd1-376e-4fbe-00f93ec492f9.m3u8?rendition=4500,4628000&amsmt=st=1737825275~exp=1737825395~hmac=5e86850be5cf8f03e6357efdf72da6acd69dc1b7c628d6f7309a4370ab336a62
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/FLAGS/flag_bangladesh.png" ,##### BANGLA - ASIA #####
-http://atg100.xyz:80/UL33K17/SYC4T9D/78935
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/5c81336f-3fd1-376e-4fbe-00f93ec492f9.m3u8?rendition=4500,4628000&amsmt=st=1737825275~exp=1737825395~hmac=5e86850be5cf8f03e6357efdf72da6acd69dc1b7c628d6f7309a4370ab336a62
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/COLORS.png" tvg-id="colorsbanglahd.in" ,BANGLA - COLORS BANGLA HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/76179
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/INDIAN/STARJALSHAMOVIES.png" tvg-id="jalshamovieshd.in" ,BANGLA - JALSHA MOVIES
