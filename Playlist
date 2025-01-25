@@ -1,6 +1,6 @@
 EXTM3U
 #EXTINF:-1 group-title="Warning ⚠️"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYuzM6YMXYfvGiSc0VEoumKbW8ti1OB3aeZl1HYUPckZHHVjH8KWGDxKdEuFkoILi6CpJLK5S5H3kI8BlkM5zQaUnb1Kyz4zULs6do4RX4NSJStfXEDch1TVsKjUvQw_TkIitMIi4utPG8X0Wjnr0cv8B6PISquKWCVtYQxJluLBj_-7FOgA39qEfjxc/s320/1000026075.gif" , You're Streaming IPTV BD LIVE TV PREMIUM 
-https://74e2ba99bffa.entrypoint.cloud.wowza.com/app-h17r8W58/ngrp:a706813f_all/playlist.m3u8
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/5c81336f-3fd1-376e-4fbe-00f93ec492f9.m3u8?rendition=4500,4628000&amsmt=st=1737825275~exp=1737825395~hmac=5e86850be5cf8f03e6357efdf72da6acd69dc1b7c628d6f7309a4370ab336a62
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhiXAC8VnI235ywdhZd2_k7PeFNQ9AIpClw&usqp=CAU" , Lute Le Tu Shakib Khan (2024)
 https://vz-ce272881-d38.b-cdn.net/4a90d1fa-8cb5-4947-99c2-e9c67939538f/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , Jisme Mein Tera Shakib Khan (2024)
@@ -2626,7 +2626,7 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/72257
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/ATNBANGLA.png" ,BANGLA -UK| ATN BANGLA UK
 http://atg100.xyz:80/UL33K17/SYC4T9D/72255
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/FLAGS/flag_bangladesh.png" ,##### BANGLA - GENERAL #####
-http://atg100.xyz:80/UL33K17/SYC4T9D/72254
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/5c81336f-3fd1-376e-4fbe-00f93ec492f9.m3u8?rendition=4500,4628000&amsmt=st=1737825275~exp=1737825395~hmac=5e86850be5cf8f03e6357efdf72da6acd69dc1b7c628d6f7309a4370ab336a62
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/STAR-JALSHA-MOVIESHD.png" ,BANGLA - STAR JALSHA MOVIES HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/76205
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/ATNBANGLA.png" ,BANGLA - ATN
