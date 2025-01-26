@@ -1,6 +1,6 @@
 EXTM3U
 #EXTINF:-1 group-title="Warning ⚠️"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYuzM6YMXYfvGiSc0VEoumKbW8ti1OB3aeZl1HYUPckZHHVjH8KWGDxKdEuFkoILi6CpJLK5S5H3kI8BlkM5zQaUnb1Kyz4zULs6do4RX4NSJStfXEDch1TVsKjUvQw_TkIitMIi4utPG8X0Wjnr0cv8B6PISquKWCVtYQxJluLBj_-7FOgA39qEfjxc/s320/1000026075.gif" , You're Streaming IPTV BD LIVE TV PREMIUM 
-https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/5c81336f-3fd1-376e-4fbe-00f93ec492f9.m3u8?rendition=4500,4628000&amsmt=st=1737825275~exp=1737825395~hmac=5e86850be5cf8f03e6357efdf72da6acd69dc1b7c628d6f7309a4370ab336a62
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhiXAC8VnI235ywdhZd2_k7PeFNQ9AIpClw&usqp=CAU" , Lute Le Tu Shakib Khan (2024)
 https://vz-ce272881-d38.b-cdn.net/4a90d1fa-8cb5-4947-99c2-e9c67939538f/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , Jisme Mein Tera Shakib Khan (2024)
@@ -2620,23 +2620,23 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/34732
 #EXTINF:-1 group-title="AS | MALAYALAM" tvg-logo="http://go4.pw/EUROPE/SWEDEN/_OTT (8).png" ,HINDI - WE TV
 http://atg100.xyz:80/UL33K17/SYC4T9D/1019905
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/FLAGS/flag_bangladesh.png" ,##### BANGLA - UK #####
-http://atg100.xyz:80/UL33K17/SYC4T9D/78930
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/NTV.png" tvg-id="NTV-IN" ,BANGLA -UK| NTV
 http://atg100.xyz:80/UL33K17/SYC4T9D/72257
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/ATNBANGLA.png" ,BANGLA -UK| ATN BANGLA UK
 http://atg100.xyz:80/UL33K17/SYC4T9D/72255
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/FLAGS/flag_bangladesh.png" ,##### BANGLA - GENERAL #####
-https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/5c81336f-3fd1-376e-4fbe-00f93ec492f9.m3u8?rendition=4500,4628000&amsmt=st=1737825275~exp=1737825395~hmac=5e86850be5cf8f03e6357efdf72da6acd69dc1b7c628d6f7309a4370ab336a62
-#EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/STAR-JALSHA-MOVIESHD.png" ,BANGLA - STAR JALSHA MOVIES HD
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
+EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/STAR-JALSHA-MOVIESHD.png" ,BANGLA - STAR JALSHA MOVIES HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/76205
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/ATNBANGLA.png" ,BANGLA - ATN
 http://atg100.xyz:80/UL33K17/SYC4T9D/76197
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/BANGALAABPANANDA.png" ,BANGLA - BANGALA ABP ANANDA
 http://atg100.xyz:80/UL33K17/SYC4T9D/76189
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVEoiFPEfblM-QQ7xQ8XxW9b4lsBnqWRNmNy6JOLuHTA3q5i1NScDyF_zm2tqeEvu7oMnfYj_dQZdeQ5K2HXCQ6MOa7WFFUbxcUeaYKA0CzAyo_WWqhb6voFLEqI-K4PJzhagV19b-TVTUpZj9TtXrvOBfDY0dFr08KFw8R_at4ywGKDhe-080nipK7Jk/s320/20241224_180722.png" tvg-id="tv1.in" ,VISION HD
-https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/5c81336f-3fd1-376e-4fbe-00f93ec492f9.m3u8?rendition=4500,4628000&amsmt=st=1737825275~exp=1737825395~hmac=5e86850be5cf8f03e6357efdf72da6acd69dc1b7c628d6f7309a4370ab336a62
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/FLAGS/flag_bangladesh.png" ,##### BANGLA - ASIA #####
-https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/5c81336f-3fd1-376e-4fbe-00f93ec492f9.m3u8?rendition=4500,4628000&amsmt=st=1737825275~exp=1737825395~hmac=5e86850be5cf8f03e6357efdf72da6acd69dc1b7c628d6f7309a4370ab336a62
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/COLORS.png" tvg-id="colorsbanglahd.in" ,BANGLA - COLORS BANGLA HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/76179
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/INDIAN/STARJALSHAMOVIES.png" tvg-id="jalshamovieshd.in" ,BANGLA - JALSHA MOVIES
@@ -2702,7 +2702,7 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/510486
 #EXTINF:-1 group-title="AS | BANGLA" tvg-logo="http://go4.pw/ASIA/BANGLA/BTV WORLD.png" ,BANGLA -  BTV WORLD
 http://atg100.xyz:80/UL33K17/SYC4T9D/928141
 #EXTINF:-1 group-title="AS | HINDI" tvg-logo="http://go4.pw/FLAGS/flag_india.png" tvg-id="sports18.in" ,##### HINDI - GENERAL #####
-http://atg100.xyz:80/UL33K17/SYC4T9D/72133
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
 #EXTINF:-1 group-title="AS | HINDI" tvg-logo="http://go4.pw/India/_INDIA TV.png" tvg-id="sports18.in" ,HINDI - INDIA TV
 http://atg100.xyz:80/UL33K17/SYC4T9D/256067
 #EXTINF:-1 group-title="AS | HINDI" tvg-logo="http://go4.pw/ASIA/INDIA/INDIA_TODAY.png" tvg-id="sports18.in" ,HINDI - INDIA TODAY
@@ -3726,7 +3726,7 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/1015187
 #EXTINF:-1 group-title="AS | TAMIL" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,TAMIL - GOLDTV 24/7 | SOLO MOVIES 7
 http://atg100.xyz:80/UL33K17/SYC4T9D/1015188
 #EXTINF:-1 group-title="AS | TAMIL" ,TM - PREM | SOLO MOVIES 3
-http://atg100.xyz:80/UL33K17/SYC4T9D/1019834
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
 #EXTINF:-1 group-title="AS | TAMIL" ,TM - PREM | SOLO MOVIES 4
 http://atg100.xyz:80/UL33K17/SYC4T9D/1019835
 #EXTINF:-1 group-title="AS | TAMIL" ,TM - PREM | SOLO MOVIES 5
