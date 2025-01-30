@@ -1,6 +1,6 @@
 EXTM3U
 #EXTINF:-1 group-title="Warning ⚠️"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYuzM6YMXYfvGiSc0VEoumKbW8ti1OB3aeZl1HYUPckZHHVjH8KWGDxKdEuFkoILi6CpJLK5S5H3kI8BlkM5zQaUnb1Kyz4zULs6do4RX4NSJStfXEDch1TVsKjUvQw_TkIitMIi4utPG8X0Wjnr0cv8B6PISquKWCVtYQxJluLBj_-7FOgA39qEfjxc/s320/1000026075.gif" , You're Streaming IPTV BD LIVE TV PREMIUM 
-https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/a73456aa-3699-63c2-e4b3-0bdd0debffb6.m3u8?rendition=4500,4628000&amsmt=st=1737991431~exp=1737991551~hmac=e77f2a92134061ab35ca99bbb6193e31670149b6d9013c2e8946f2ef825fa3b5
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhiXAC8VnI235ywdhZd2_k7PeFNQ9AIpClw&usqp=CAU" , Lute Le Tu Shakib Khan (2024)
 https://vz-ce272881-d38.b-cdn.net/4a90d1fa-8cb5-4947-99c2-e9c67939538f/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , Jisme Mein Tera Shakib Khan (2024)
@@ -1131,7 +1131,7 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/72257
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/BANGLA/ATNBANGLA.png" ,BANGLA -UK| ATN BANGLA UK
 http://atg100.xyz:80/UL33K17/SYC4T9D/72255
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_4rGspAsSy9rFFat5qT4MDPII2NJDcsmrPW8rvuJArXfCrXZKEBnA1ZOmdQ-zJEIkPWqyeUVggaLpoepMbXlH4IdXjZvAbRqSb3CyXQ6418DW2vJ9NMU0eBRuTvurSAKRYDMJ1BoP4jQfBCo8VFVZA8FvNdzS3H23OVA5h5bPr6ylRv1_YRCOqMzWMg/s320/1000015853.png" ,VISION HD
-https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/a73456aa-3699-63c2-e4b3-0bdd0debffb6.m3u8?rendition=4500,4628000&amsmt=st=1737991431~exp=1737991551~hmac=e77f2a92134061ab35ca99bbb6193e31670149b6d9013c2e8946f2ef825fa3b5
+https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/BANGLA/STAR-JALSHA-MOVIESHD.png" ,BANGLA - STAR JALSHA MOVIES HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/76205
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/BANGLA/ATNBANGLA.png" ,BANGLA - ATN
