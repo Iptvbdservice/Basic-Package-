@@ -6,7 +6,8 @@ https://vz-ce272881-d38.b-cdn.net/4a90d1fa-8cb5-4947-99c2-e9c67939538f/playlist.
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , Jisme Mein Tera Shakib Khan (2024)
 https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , ZINDAGI TUJHSE Shakib Khan (2024)
-https://vz-ce272881-d38.b-cdn.net/62b501d6-b65e-402e-a68f-868e2718426b/playlist.m3u8
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/d6cf1902-66f2-622a-055e-b1fe16a3feb2.m3u8?rendition=4500,4628000&amsmt=st=1738305950~exp=1738306070~hmac=f21d7a8db175d1b3719d5290f3e1b45c1d15b4aecc4e158a5381e67664c2ed49
+#EXTINF:-1 group-title="AS | BANGLADESH" ,SOMOY TV
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/24bef6f4-475a-4c56-ad4f-de8adc493a03/thumbnail_92effa04.jpg" , Buk chin chin korce hai NATOK SONG
 https://vz-ce272881-d38.b-cdn.net/24bef6f4-475a-4c56-ad4f-de8adc493a03/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/31cfddcd-b6df-4292-a4cd-c40299612353/thumbnail_d57c148e.jpg" , Dang Dang Afran Nisho Song
@@ -1125,13 +1126,14 @@ http://portal-iptv.net:8080/345365284895/345365284895/47820.mkv
 
 #EXTM3U
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_4rGspAsSy9rFFat5qT4MDPII2NJDcsmrPW8rvuJArXfCrXZKEBnA1ZOmdQ-zJEIkPWqyeUVggaLpoepMbXlH4IdXjZvAbRqSb3CyXQ6418DW2vJ9NMU0eBRuTvurSAKRYDMJ1BoP4jQfBCo8VFVZA8FvNdzS3H23OVA5h5bPr6ylRv1_YRCOqMzWMg/s320/1000015853.png" ,VISION HD
-https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/a73456aa-3699-63c2-e4b3-0bdd0debffb6.m3u8?rendition=4500,4628000&amsmt=st=1737991431~exp=1737991551~hmac=e77f2a92134061ab35ca99bbb6193e31670149b6d9013c2e8946f2ef825fa3b5
-#EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/BANGLA/NTV.png" tvg-id="NTV-IN" ,BANGLA -UK| NTV
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/d6cf1902-66f2-622a-055e-b1fe16a3feb2.m3u8?rendition=4500,4628000&amsmt=st=1738305950~exp=1738306070~hmac=f21d7a8db175d1b3719d5290f3e1b45c1d15b4aecc4e158a5381e67664c2ed49
+#EXTINF:-1 group-title="AS | BANGLADESH" ,SOMOY TV
 http://atg100.xyz:80/UL33K17/SYC4T9D/72257
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/BANGLA/ATNBANGLA.png" ,BANGLA -UK| ATN BANGLA UK
 http://atg100.xyz:80/UL33K17/SYC4T9D/72255
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_4rGspAsSy9rFFat5qT4MDPII2NJDcsmrPW8rvuJArXfCrXZKEBnA1ZOmdQ-zJEIkPWqyeUVggaLpoepMbXlH4IdXjZvAbRqSb3CyXQ6418DW2vJ9NMU0eBRuTvurSAKRYDMJ1BoP4jQfBCo8VFVZA8FvNdzS3H23OVA5h5bPr6ylRv1_YRCOqMzWMg/s320/1000015853.png" ,VISION HD
-https://bf05d0e654a4.entrypoint.cloud.wowza.com/app-vds43F9T/ngrp:6d5c98bf_all/playlist.m3u8
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/d6cf1902-66f2-622a-055e-b1fe16a3feb2.m3u8?rendition=4500,4628000&amsmt=st=1738305950~exp=1738306070~hmac=f21d7a8db175d1b3719d5290f3e1b45c1d15b4aecc4e158a5381e67664c2ed49
+#EXTINF:-1 group-title="AS | BANGLADESH" ,SOMOY TV
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/BANGLA/STAR-JALSHA-MOVIESHD.png" ,BANGLA - STAR JALSHA MOVIES HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/76205
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/BANGLA/ATNBANGLA.png" ,BANGLA - ATN
@@ -1208,7 +1210,8 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/510486
 http://atg100.xyz:80/UL33K17/SYC4T9D/928141
 #EXTM3U
 #EXTINF:-1 group-title="INDIAN ALL IPTV BY BDIXIPTVBD.COM" tvg-logo="http://go4.pw/FLAGS/flag_india.png" tvg-id="sports18.in" ,##### HINDI - GENERAL #####
-https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/a73456aa-3699-63c2-e4b3-0bdd0debffb6.m3u8?rendition=4500,4628000&amsmt=st=1737991431~exp=1737991551~hmac=e77f2a92134061ab35ca99bbb6193e31670149b6d9013c2e8946f2ef825fa3b5
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/d6cf1902-66f2-622a-055e-b1fe16a3feb2.m3u8?rendition=4500,4628000&amsmt=st=1738305950~exp=1738306070~hmac=f21d7a8db175d1b3719d5290f3e1b45c1d15b4aecc4e158a5381e67664c2ed49
+#EXTINF:-1 group-title="AS | BANGLADESH" ,SOMOY TV
 #EXTINF:-1 group-title="INDIAN ALL IPTV BY BDIXIPTVBD.COM" tvg-logo="http://go4.pw/India/_INDIA TV.png" tvg-id="sports18.in" ,HINDI - INDIA TV
 http://atg100.xyz:80/UL33K17/SYC4T9D/256067
 #EXTINF:-1 group-title="INDIAN ALL IPTV BY BDIXIPTVBD.COM" tvg-logo="http://go4.pw/ASIA/INDIA/INDIA_TODAY.png" tvg-id="sports18.in" ,HINDI - INDIA TODAY
