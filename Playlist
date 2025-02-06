@@ -5,9 +5,8 @@ https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transm
 https://vz-ce272881-d38.b-cdn.net/4a90d1fa-8cb5-4947-99c2-e9c67939538f/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , Jisme Mein Tera Shakib Khan (2024)
 https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/playlist.m3u8
-#EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/48c66526-821d-44b1-b128-105b2eb2ae9b/thumbnail_7a9fee44.jpg" , ZINDAGI TUJHSE Shakib Khan (2024)
+#EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" , VISION HD
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/d6cf1902-66f2-622a-055e-b1fe16a3feb2.m3u8?rendition=4500,4628000&amsmt=st=1738305950~exp=1738306070~hmac=f21d7a8db175d1b3719d5290f3e1b45c1d15b4aecc4e158a5381e67664c2ed49
-#EXTINF:-1 group-title="AS | BANGLADESH" ,SOMOY TV
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/24bef6f4-475a-4c56-ad4f-de8adc493a03/thumbnail_92effa04.jpg" , Buk chin chin korce hai NATOK SONG
 https://vz-ce272881-d38.b-cdn.net/24bef6f4-475a-4c56-ad4f-de8adc493a03/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI SONGS" tvg-logo="https://vz-ce272881-d38.b-cdn.net/31cfddcd-b6df-4292-a4cd-c40299612353/thumbnail_d57c148e.jpg" , Dang Dang Afran Nisho Song
@@ -22,7 +21,7 @@ https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/D-max.m3u8
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/Discovery-kids.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B3J6K0lX7zsdxG_s0g8vl6v0FrNVt_Virg&s" ,Discovery-science
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/Discovery-science.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmme1qnhKYlSSPPjV6SAciAYPJdP7pwj_r6A&s" ,Discovery-turbo.m3u
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmme1qnhKYlSSPPjV6SAciAYPJdP7pwj_r6A&s" ,Discovery-turbo
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/Discovery-turbo.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Wi0QSYyY9D6OlSXSiZ_O7tKKK_1-LkK9vQ&s" ,Investigation-discovery
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/Investigation-discovery.m3u8
@@ -1142,8 +1141,8 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/76197
 http://atg100.xyz:80/UL33K17/SYC4T9D/76189
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/INDONESIA/" tvg-id="tv1.in" ,BANGLA - UK - TV ONE
 http://atg100.xyz:80/UL33K17/SYC4T9D/78934
-#EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/FLAGS/flag_bangladesh.png" ,##### BANGLA - ASIA #####
-http://atg100.xyz:80/UL33K17/SYC4T9D/78935
+#EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD 
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/d6cf1902-66f2-622a-055e-b1fe16a3feb2.m3u8?rendition=4500,4628000&amsmt=st=1738305950~exp=1738306070~hmac=f21d7a8db175d1b3719d5290f3e1b45c1d15b4aecc4e158a5381e67664c2ed49
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/BANGLA/COLORS.png" tvg-id="colorsbanglahd.in" ,BANGLA - COLORS BANGLA HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/76179
 #EXTINF:-1 group-title="BDIXIPTBVD" tvg-logo="http://go4.pw/ASIA/INDIAN/STARJALSHAMOVIES.png" tvg-id="jalshamovieshd.in" ,BANGLA - JALSHA MOVIES
