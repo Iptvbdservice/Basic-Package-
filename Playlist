@@ -79,8 +79,8 @@ https://hellopeopletv.gotohosty.com/jadoo/jadoo.php?id=rtv&e=.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,NEXUS TV BDIX
 http://starshare.live:8080/live/852963741/852963741/411.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" ,GREEN TV BDIX
-https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheBhPRKIgqNdh1VtdC13OH1Sm3s2JiPN7qdAhdpcX-oGcnu1woUhXGgqkVVo9O1oa-6l5Zi1hMDtFidYf4nTWKVcYBR2E-VIFfCFj9vQ6_lkmhFIm_N_eq5etfj3Nt7JH2MXImGT2etd-xdB_upFJdPJ-KRX672m5wdYWDWatE0ML63wnnCc93YLtKthE6/w1200-h630-p-k-no-nu/T%20Sports%20Live%20Ajkher%20Khela.png" ,T SPORTS BDIX
+http://161.248.188.101/T_sports/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://rajdhani.tv/storage/app/image/1665000837logo.png" ,RAJDHANI TV BDIX
 https://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" ,MOHONA TV BDIX
