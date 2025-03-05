@@ -301,7 +301,7 @@ http://bd.bdix.xyz:8880/live/789865437/789865437/19965.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLckEgYr4_oBHkIzCqN09l4FcNhAo_i5aWw&s" ,NEWS 21 BANGLA
 http://bd.bdix.xyz:8880/live/789865437/789865437/19988.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXefMkj1QKWUFKNhwKrVJ1DWRrqIJ0t7sHgg&s" ,SAMI TV HD
-http://bd.bdix.xyz:8880/live/789865437/789865437/20666.ts
+http://161.248.188.101/bdixiptvbd_sami.tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://eyetvbangla24.com/wp-content/uploads/2023/11/EYE-TV-Bangla-logo-300x300.jpg" ,EYE TV BANGLA HD 
 http://bd.bdix.xyz:8880/live/789865437/789865437/20668.ts
 #EXTINF:-1 group-title="BANGLADESHI KIDS" tvg-logo="https://cdnb.artstation.com/p/assets/images/images/007/762/713/small/sadek-ahmed-5.jpg?1508345060" ,DURONTO TV HD
