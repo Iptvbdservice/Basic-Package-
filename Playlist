@@ -30,7 +30,7 @@ http://xtv.ooo:8080//live/4262701/52719/26187.ts
 #EXTINF:-1 group-title=" LIVE KIDS ☀️ 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" ,24/7 MOTU PATLU
 http://xtv.ooo:8080//live/4262701/52719/311373.ts
 #EXTINF:-1 group-title="BANGLADESHI"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsFcK_840UCSTgKaUusMM95lOHvmZwWTWLQ&s" ,DEEPTO TV BDIX
-http://xtv.ooo:8080//live/4262701/52719/245927.ts
+http://161.248.188.101/dipto_tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://cdn.ekattor.online/contents/themes/public/style/images/logo.png" ,EKATTOR-TV (BDIX)
 http://xtv.ooo:8080//live/4262701/52719/245915.ts
 #EXTINF:-1 group-title="BANGLADESHI" ,CHANNEL 24 BDIX
@@ -153,7 +153,11 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" , Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" ,IN: Sports 18 (4K)
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3p9HPXP_bNJMfPGfED_Ba3ovjtCy_9MazCyycegeJZKMnD6kYhM0t3LUMw7vnzmK38hB9MqTPqz6y6A-zCfEBzBvU7sY9HTHH8BVb_1NBNBraJDtvDBCk-V7XBlSKcfhypl2r53JQmQ/s300/T-Sports-Bangladesh-Logo.png" ,T SPORTS 1
+https://live.tsports.com/mobile_hls/tsports_live_1/index.m3u8
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheBhPRKIgqNdh1VtdC13OH1Sm3s2JiPN7qdAhdpcX-oGcnu1woUhXGgqkVVo9O1oa-6l5Zi1hMDtFidYf4nTWKVcYBR2E-VIFfCFj9vQ6_lkmhFIm_N_eq5etfj3Nt7JH2MXImGT2etd-xdB_upFJdPJ-KRX672m5wdYWDWatE0ML63wnnCc93YLtKthE6/s16000-rw/T%20Sports%20Live%20Ajkher%20Khela.png" ,T SPORTS 2
+http://161.248.188.101/T_sports/index.m3u8
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://assets.mspimages.in/wp-content/uploads/2022/11/Sports-18.jpg" ,Sports 18 (4K)
 http://xtv.ooo:8080//live/4262701/52719/382205.ts
 #EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,PK: PTV SPORTS
 http://xtv.ooo:8080//live/4262701/52719/167567.ts
@@ -623,70 +627,8 @@ http://xtv.ooo:8080//live/4262701/52719/206276.ts
 http://xtv.ooo:8080//live/4262701/52719/275337.ts
 #EXTINF:-1 group-title="INDIAN | MOVIES" tvg-logo="http://b1g.fun/logos2/dhinchaak2.jpg" ,IND: DHINCHAAK
 http://xtv.ooo:8080//live/4262701/52719/374980.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,***IND: DRAMA (4K ULTRA HD)***
-http://xtv.ooo:8080//live/4262701/52719/109946.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="colorshd.in" ,Colors (4K)
-http://xtv.ooo:8080//live/4262701/52719/109947.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyhd.in" ,SONY SET (4K)
-http://xtv.ooo:8080//live/4262701/52719/109948.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starplushd.in" ,Star Plus (4K)
-http://xtv.ooo:8080//live/4262701/52719/109949.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,ZEE TV (4K)
-http://xtv.ooo:8080//live/4262701/52719/109950.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starbharathd.in" ,STAR BHARAT (4K)
-http://xtv.ooo:8080//live/4262701/52719/109951.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andtvhd.in" ,&tv (4K)
-http://xtv.ooo:8080//live/4262701/52719/109952.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonysabhd.in" ,SONY SAB (4K)
-http://xtv.ooo:8080//live/4262701/52719/109953.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,***IND: MOVIES (4K ULTRA HD)***
-http://xtv.ooo:8080//live/4262701/52719/109954.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andpictureshd.in" ,&pictures (4K)
-http://xtv.ooo:8080//live/4262701/52719/109955.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonymaxhd.in" ,SONY MAX (4K)
-http://xtv.ooo:8080//live/4262701/52719/109957.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="zeecinemaindiahd.in" ,ZEE CINEMA (4K)
-http://xtv.ooo:8080//live/4262701/52719/109958.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="stargoldhd.in" ,Star GOLD (4K)
-http://xtv.ooo:8080//live/4262701/52719/109959.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,Star Gold Select (4K)
-http://xtv.ooo:8080//live/4262701/52719/109960.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,Movies_active (4K)
-http://xtv.ooo:8080//live/4262701/52719/109961.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="andflixhd.in" ,& flix (4K)
-http://xtv.ooo:8080//live/4262701/52719/109962.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="hbohd.in" ,& Prive (4K)
-http://xtv.ooo:8080//live/4262701/52719/109963.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,& Xplorer (4K)
-http://xtv.ooo:8080//live/4262701/52719/109964.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,MN+ (4K)
-http://xtv.ooo:8080//live/4262701/52719/109965.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,SONY PIX (4K)
-http://xtv.ooo:8080//live/4262701/52719/109966.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="moviesnowhd.in" ,Movies Now (4K)
-http://xtv.ooo:8080//live/4262701/52719/109968.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,STAR MOVIES (4K)
-http://xtv.ooo:8080//live/4262701/52719/109970.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="starworldhd.in" ,STAR WORLD (4K)
-http://xtv.ooo:8080//live/4262701/52719/109971.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="discoveryhd.in" ,DISCOVERY (4K)
-http://xtv.ooo:8080//live/4262701/52719/109974.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="animalplanethd.in" ,ANIMAL PLANET (4K)
-http://xtv.ooo:8080//live/4262701/52719/109975.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,NAT Geo Wild (4K)
-http://xtv.ooo:8080//live/4262701/52719/109976.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,National GEO (4K)
-http://xtv.ooo:8080//live/4262701/52719/109977.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,Sony BBC Ear (4K)
-http://xtv.ooo:8080//live/4262701/52719/109978.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="sonyten3hd.in" ,FOX Life (4K)
-http://xtv.ooo:8080//live/4262701/52719/109980.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" ,IN: COLORS CINEPLEX (4K)
-http://xtv.ooo:8080//live/4262701/52719/206315.ts
-#EXTINF:-1 group-title="INDIAN | 4K ULTRA HD" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" tvg-id="jalshamovieshd.in" ,IN: Jalsha Movies (4K)*
-http://xtv.ooo:8080//live/4262701/52719/206320.ts
-#EXTINF:-1 group-title="INDIAN | SPORTS 4K (ULTRA HD)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/02/CT2025.png" ,STAR 4K
-http://xtv.ooo:8080//live/4262701/52719/390407.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/5b/Peace_TV_Bangla_HD_logo.png/revision/latest/scale-to-width-down/200?cb=20220106021628" tvg-id="peacetvbangla.in" ,Peace TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN | SPORTS 4K (ULTRA HD)" ,***IND: SPORTS (4K ULTRA HD)***
 http://xtv.ooo:8080//live/4262701/52719/109982.ts
 #EXTINF:-1 group-title="INDIAN | SPORTS 4K (ULTRA HD)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" tvg-id="sonyten1hd.in" ,Sony Ten 1 (4K)
@@ -753,8 +695,13 @@ http://xtv.ooo:8080//live/4262701/52719/363005.ts
 http://xtv.ooo:8080//live/4262701/52719/363006.ts
 #EXTINF:-1 group-title="INDIAN | DOCUMENTARY" ,DOC | Wildlife HINDI
 http://xtv.ooo:8080//live/4262701/52719/363002.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cbntvusa.net/wp-content/uploads/2024/11/cbn-tv-usa.webp" tvg-id="zeebanglahd.in" ,CVN TV USA
+http://161.248.188.101/imran_vai/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://play-lh.googleusercontent.com/Wt4roHkaHt6TDLjp97T1OwCQVe1--PLdQd_nfDXqKmcUJxl-bx6PBM6qo6l8sFA5gw" tvg-id="zeebanglahd.in" ,PROJONMO TV
+http://161.248.188.101/imran_vai1/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" tvg-id="zeebanglahd.in" ,IND-Bangla: Zee Bangla HD
-http://xtv.ooo:8080//live/4262701/52719/245893.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami.jpg" tvg-id="zeebanglahd.in" ,SAMI TV HD
+http://161.248.188.101/bdixiptvbd_sami.tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Colors Bangla
 http://xtv.ooo:8080//live/4262701/52719/245895.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" tvg-id="zeebanglacinema.in" ,IND-Bangla: Zee Bangla Cinema
@@ -783,13 +730,13 @@ http://xtv.ooo:8080//live/4262701/52719/245908.ts
 http://xtv.ooo:8080//live/4262701/52719/245909.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png" ,BD-LOC: Bangla Tv
 http://xtv.ooo:8080//live/4262701/52719/245910.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,BD-LOC: RTV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV
 http://xtv.ooo:8080//live/4262701/52719/245911.ts
 #EXTINF:-1 group-title="BANGLADESH" ,BD-LOC: channel I
 http://xtv.ooo:8080//live/4262701/52719/245913.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" ,BD-LOC: Dbc News
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" ,Dbc News
 http://xtv.ooo:8080//live/4262701/52719/245914.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" ,BD | EKATTOR TV HD
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" ,EKATTOR TV HD
 http://xtv.ooo:8080//live/4262701/52719/245915.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" ,BD-LOC: independent
 http://xtv.ooo:8080//live/4262701/52719/245916.ts
@@ -797,21 +744,21 @@ http://xtv.ooo:8080//live/4262701/52719/245916.ts
 http://xtv.ooo:8080//live/4262701/52719/245917.ts
 #EXTINF:-1 group-title="BANGLADESH" ,BD-LOC: R PLUS
 http://xtv.ooo:8080//live/4262701/52719/245918.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" ,BD-loc: Mohona tv
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" ,Mohona tv
 http://xtv.ooo:8080//live/4262701/52719/245920.ts
 #EXTINF:-1 group-title="BANGLADESH" ,BD-loc: DHOOM MUSIC
 http://xtv.ooo:8080//live/4262701/52719/245921.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,BD-loc: Btv world
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
 http://xtv.ooo:8080//live/4262701/52719/245922.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" ,BD | BOISHAKHI TV HD
 http://xtv.ooo:8080//live/4262701/52719/245923.ts
 #EXTINF:-1 group-title="BANGLADESH" ,BD-loc: ntv
 http://xtv.ooo:8080//live/4262701/52719/245924.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" ,BD-loc: SOMOY tv NEWS
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" ,SOMOY tv NEWS
 http://xtv.ooo:8080//live/4262701/52719/245925.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,BD-loc: Deepto tv
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,Deepto tv
 http://xtv.ooo:8080//live/4262701/52719/245927.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" ,BD-loc: Aakaash
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" ,Aakaash
 http://xtv.ooo:8080//live/4262701/52719/245928.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,BD: Ananda TV
 http://xtv.ooo:8080//live/4262701/52719/245929.ts
@@ -931,96 +878,6 @@ http://xtv.ooo:8080//live/4262701/52719/362842.ts
 http://xtv.ooo:8080//live/4262701/52719/362843.ts
 #EXTINF:-1 group-title="24/7 BOLLYWOOD MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,Playlist 21
 http://xtv.ooo:8080//live/4262701/52719/362844.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 1
-http://xtv.ooo:8080//live/4262701/52719/381992.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 2
-http://xtv.ooo:8080//live/4262701/52719/381993.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 3
-http://xtv.ooo:8080//live/4262701/52719/381994.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 4
-http://xtv.ooo:8080//live/4262701/52719/381995.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 5
-http://xtv.ooo:8080//live/4262701/52719/381996.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 6
-http://xtv.ooo:8080//live/4262701/52719/381997.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 7
-http://xtv.ooo:8080//live/4262701/52719/381998.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 8
-http://xtv.ooo:8080//live/4262701/52719/381999.ts
-#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 9
-http://xtv.ooo:8080//live/4262701/52719/382000.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="http://logo.opplextv.com/logo/MehakMalikDance.jpg" ,24/7 Mehak Malik Dance
-http://xtv.ooo:8080//live/4262701/52719/317806.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="http://logo.opplextv.com/logo/UrwaKhanDance.jpg" ,24/7 Urwa Khan Dance
-http://xtv.ooo:8080//live/4262701/52719/317807.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="http://logo.opplextv.com/logo/ChiriyaQueenDance.jpg" ,24/7 Chiriya Queen Dance
-http://xtv.ooo:8080//live/4262701/52719/317808.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="http://logo.opplextv.com/logo/247STAGEDANCE.jpg" ,24/7 STAGE DANCE
-http://xtv.ooo:8080//live/4262701/52719/317809.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/SFOperaHouse2_%288189967420%29.jpg" ,01 STAGE DRAMA BEST CLIP
-http://xtv.ooo:8080//live/4262701/52719/329211.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/SFOperaHouse2_%288189967420%29.jpg" ,02 STAGE DRAMA BEST CLIP
-http://xtv.ooo:8080//live/4262701/52719/329212.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/SFOperaHouse2_%288189967420%29.jpg" ,03 STAGE DRAMA BEST CLIP
-http://xtv.ooo:8080//live/4262701/52719/329213.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pasant_Theatre_from_seats.JPG/300px-Pasant_Theatre_from_seats.JPG" ,01 STAGE DRAMA FULL
-http://xtv.ooo:8080//live/4262701/52719/329214.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pasant_Theatre_from_seats.JPG/300px-Pasant_Theatre_from_seats.JPG" ,02 STAGE DRAMA FULL
-http://xtv.ooo:8080//live/4262701/52719/329215.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pasant_Theatre_from_seats.JPG/300px-Pasant_Theatre_from_seats.JPG" ,03 STAGE DRAMA FULL
-http://xtv.ooo:8080//live/4262701/52719/329216.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pasant_Theatre_from_seats.JPG/300px-Pasant_Theatre_from_seats.JPG" ,04 STAGE DRAMA FULL
-http://xtv.ooo:8080//live/4262701/52719/329217.ts
-#EXTINF:-1 group-title="24/7 DANCE | STAGE DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pasant_Theatre_from_seats.JPG/300px-Pasant_Theatre_from_seats.JPG" ,05 STAGE DRAMA FULL
-http://xtv.ooo:8080//live/4262701/52719/329218.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,•●★--- Welcome ----★●•
-http://xtv.ooo:8080//live/4262701/52719/236995.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox 2 Animation
-http://xtv.ooo:8080//live/4262701/52719/348312.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox 3 Blockbuster
-http://xtv.ooo:8080//live/4262701/52719/348313.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox 4 Classic
-http://xtv.ooo:8080//live/4262701/52719/348314.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox 5 Comedy
-http://xtv.ooo:8080//live/4262701/52719/348315.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox 6 Cult
-http://xtv.ooo:8080//live/4262701/52719/348316.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox 7 Family
-http://xtv.ooo:8080//live/4262701/52719/348317.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox 8 Greats
-http://xtv.ooo:8080//live/4262701/52719/348318.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox 8 Greats 2
-http://xtv.ooo:8080//live/4262701/52719/348319.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox HISTORICAL
-http://xtv.ooo:8080//live/4262701/52719/348320.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,UK: CineBox Action
-http://xtv.ooo:8080//live/4262701/52719/348321.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,CINEBOX: HORROR
-http://xtv.ooo:8080//live/4262701/52719/380669.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,CINEBOX: MUSICAL
-http://xtv.ooo:8080//live/4262701/52719/380670.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,CINEBOX: MYSTERY
-http://xtv.ooo:8080//live/4262701/52719/380671.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,CINEBOX: PREMIERE
-http://xtv.ooo:8080//live/4262701/52719/380672.ts
-#EXTINF:-1 group-title="CINEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" ,CINEBOX: ROMANCE
-http://xtv.ooo:8080//live/4262701/52719/380673.ts
-#EXTINF:-1 group-title="NETFLIX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" ,NETFLIX ACTION 1
-http://xtv.ooo:8080//live/4262701/52719/247998.ts
-#EXTINF:-1 group-title="NETFLIX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" ,NETFLIX ACTION 2
-http://xtv.ooo:8080//live/4262701/52719/247999.ts
-#EXTINF:-1 group-title="NETFLIX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" ,NETFLIX ACTION 3
-http://xtv.ooo:8080//live/4262701/52719/248000.ts
-#EXTINF:-1 group-title="NETFLIX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" ,NETFLIX ACTION 4
-http://xtv.ooo:8080//live/4262701/52719/248001.ts
-#EXTINF:-1 group-title="NETFLIX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" ,NETFLIX ACTION 5
-http://xtv.ooo:8080//live/4262701/52719/248002.ts
-#EXTINF:-1 group-title="NETFLIX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" ,NETFLIX ACTION 6
-http://xtv.ooo:8080//live/4262701/52719/248003.ts
-#EXTINF:-1 group-title="NETFLIX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" ,NETFLIX ACTION 7
-http://xtv.ooo:8080//live/4262701/52719/248004.ts
-#EXTINF:-1 group-title="NETFLIX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" ,NETFLIX ACTION 8
-http://xtv.ooo:8080//live/4262701/52719/248005.ts
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" ,TR: BeIN Sports HD 4 (Turkish)
 http://xtv.ooo:8080//live/4262701/52719/381363.ts
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" ,TR: BeIN Sports HD 3 (Turkish)
@@ -1103,3 +960,92 @@ http://xtv.ooo:8080//live/4262701/52719/381325.ts
 http://xtv.ooo:8080//live/4262701/52719/381324.ts
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" ,AR: BeIN Sports English 1 FHD
 http://xtv.ooo:8080//live/4262701/52719/381323.ts
+#EXTM3U
+#EXTINF:-1 group-title=" ISLAMIC" ,MADNI TV
+http://opplextv.cyou:8080/258036/258036/2.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-id="aryqtv.pk" ,ARY QTV
+http://opplextv.cyou:8080/258036/258036/3.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,AL-QURAN AL-KAREEM
+http://opplextv.cyou:8080/258036/258036/4.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,IMAM HUSSAIN TV 4 URDU
+http://opplextv.cyou:8080/258036/258036/5.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,IMAM HUSSAIN 3 TV
+http://opplextv.cyou:8080/258036/258036/6.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadi_tv_pk.png" ,HADI TV
+http://opplextv.cyou:8080/258036/258036/7.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,PAIGHAM URDU
+http://opplextv.cyou:8080/258036/258036/8.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,ALBAYAT TV
+http://opplextv.cyou:8080/258036/258036/9.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,MAKKA TV LIVE*
+http://opplextv.cyou:8080/258036/258036/10.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,PEACE TV URDU
+http://opplextv.cyou:8080/258036/258036/11.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" ,MADINA LIVE*
+http://opplextv.cyou:8080/258036/258036/26.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,AL-SUNNAH
+http://opplextv.cyou:8080/258036/258036/57.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: NOOR TV
+http://opplextv.cyou:8080/258036/258036/92.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,Hidayat TV
+http://opplextv.cyou:8080/258036/258036/26017.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOUxMLzHBT67fLaLMkHFsa51jWmCwEUZZWFw&s" ,RTV ISLAM
+http://opplextv.cyou:8080/258036/258036/26021.ts.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,Al Zahra Tv
+http://opplextv.cyou:8080/258036/258036/26035.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,PK | Paigam Pushto
+http://opplextv.cyou:8080/258036/258036/103644.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://and.whiteflix.tv/uploads/tv_image/al-quran-al-kareem-mecca.png" ,Al Quran Al Kareem (Mecca)
+http://161.248.188.101/imran_vai4/index.m3u8
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,PK: Raham Tv
+http://opplextv.cyou:8080/258036/258036/103658.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,IQRA Bangla TV
+http://opplextv.cyou:8080/258036/258036/103661.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: FAZAL TV*
+http://opplextv.cyou:8080/258036/258036/110052.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: BARKAT TV
+http://opplextv.cyou:8080/258036/258036/110046.ts.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,PK: Minhaj TV HD*
+http://opplextv.cyou:8080/258036/258036/110047.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,Pak: PEACE TV (ENGLISH)
+http://opplextv.cyou:8080/258036/258036/167878.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" ,01 QURAN MAJEED TALAWAT 24/7
+http://opplextv.cyou:8080/258036/258036/251592.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" ,02 QURAN MAJEED TALAWAT 24/7
+http://opplextv.cyou:8080/258036/258036/251593.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" ,03 QURAN MAJEED TALAWAT 24/7
+http://opplextv.cyou:8080/258036/258036/251594.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,IR: Sahar Urdu
+http://opplextv.cyou:8080/258036/258036/270529.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,01 NAATS SHARIF 24/7
+http://opplextv.cyou:8080/258036/258036/310906.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,02 NAATS SHARIF 24/7
+http://opplextv.cyou:8080/258036/258036/310907.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,03 NAATS FARHAN ALI QADRI 24/7
+http://opplextv.cyou:8080/258036/258036/311020.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,04 NAATS SHARIF 24/7
+http://opplextv.cyou:8080/258036/258036/311356.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,05 NAATS SHARIF 24/7
+http://opplextv.cyou:8080/258036/258036/323763.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,06 NAATS SHARIF 24/7
+http://opplextv.cyou:8080/258036/258036/323764.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,07 NAATS SHARIF 24/7
+http://opplextv.cyou:8080/258036/258036/323765.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,08 NAATS SHARIF 24/7
+http://opplextv.cyou:8080/258036/258036/328788.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" ,09 NAATS SHARIF 24/7
+http://opplextv.cyou:8080/258036/258036/328789.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Dark_vignette_Al-Masjid_AL-Nabawi_Door800x600x300_%28cropped%29.jpg" ,Hadees Rasool Pak (SAW)
+http://opplextv.cyou:8080/258036/258036/328790.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,ISLAMIC STORY
+http://opplextv.cyou:8080/258036/258036/388460.ts
+#EXTINF:-1 group-title=" ISLAMIC" tvg-logo="https://play-lh.googleusercontent.com/aUMPjFrK1cXQryrdSqCQ6C-5ECJyL8EGAhnVcraCu2GUmjt5u4vp64L3qAH0-MKu4Q_j" ,HYDER TV
+http://opplextv.cyou:8080/258036/258036/379934.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,DUA TV
+http://opplextv.cyou:8080/258036/258036/380145.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,IMAM HUSSAIN TV 1
+http://opplextv.cyou:8080/258036/258036/380267.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,IMAM HUSSAIN TV 2
+http://opplextv.cyou:8080/258036/258036/380268.ts
+#EXTINF:-1 group-title=" ISLAMIC" ,Imam Ali 1 FA TV
+http://opplextv.cyou:8080/258036/258036/380269.ts
