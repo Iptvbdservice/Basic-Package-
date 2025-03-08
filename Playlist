@@ -294,7 +294,147 @@ http://bd.bdix.xyz:8880/live/789865437/789865437/16261.ts
 http://bd.bdix.xyz:8880/live/789865437/789865437/16416.ts
 #EXTINF:-1 group-title="BANGLADESHI KIDS" tvg-logo="https://play-lh.googleusercontent.com/22vh5xTYiGG-2Y6dmsO5O7I-Xeh8R-sgeKPjpQ4Tr8SHnO0LjfuPCB6FYMwPP3BozQ" ,TEN TV PRIME HD
 http://bd.bdix.xyz:8880/live/789865437/789865437/19068.ts
-#EXTINF:-1 group-title="BANGLADESHI KIDS" tvg-logo="https://play-lh.googleusercontent.com/22vh5xTYiGG-2Y6dmsO5O7I-Xeh8R-sgeKPjpQ4Tr8SHnO0LjfuPCB6FYMwPP3BozQ" ,TEN TV PRIME BDIX
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cbntvusa.net/wp-content/uploads/2024/11/cbn-tv-usa.webp" tvg-id="zeebanglahd.in" ,CVN TV USA
+http://161.248.188.101/imran_vai/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://play-lh.googleusercontent.com/Wt4roHkaHt6TDLjp97T1OwCQVe1--PLdQd_nfDXqKmcUJxl-bx6PBM6qo6l8sFA5gw" tvg-id="zeebanglahd.in" ,PROJONMO TV
+http://161.248.188.101/imran_vai1/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" tvg-id="zeebanglahd.in" ,IND-Bangla: Zee Bangla HD
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami.jpg" tvg-id="zeebanglahd.in" ,SAMI TV HD
+http://161.248.188.101/bdixiptvbd_sami.tv/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Colors Bangla
+http://xtv.ooo:8080//live/4262701/52719/245895.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" tvg-id="zeebanglacinema.in" ,IND-Bangla: Zee Bangla Cinema
+http://xtv.ooo:8080//live/4262701/52719/245897.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" tvg-id="starjalshahd.in" ,IND-Bangla: Star Jalsa HD
+http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/534.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" ,IND-Bangla: Jalsa Movies HD
+http://xtv.ooo:8080//live/4262701/52719/245900.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Gazi TV
+http://161.248.188.101/Gazi_tv-bdixiptvbd.com/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" ,BD-loc: Channel 9
+http://xtv.ooo:8080//live/4262701/52719/245902.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" ,BD-loc: NEWS 24
+http://xtv.ooo:8080//live/4262701/52719/245903.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Masranga HD
+http://xtv.ooo:8080//live/4262701/52719/245904.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" ,BD-LOC: ATN News
+http://xtv.ooo:8080//live/4262701/52719/245905.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,IND-Bangla: SUN Bangla
+http://xtv.ooo:8080//live/4262701/52719/245906.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-LOC: 71banglatv
+http://xtv.ooo:8080//live/4262701/52719/245907.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" ,BD-LOC: Asian tv
+http://xtv.ooo:8080//live/4262701/52719/245908.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,BD-LOC: ATN Bangla
+http://xtv.ooo:8080//live/4262701/52719/245909.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png" ,BD-LOC: Bangla Tv
+http://xtv.ooo:8080//live/4262701/52719/245910.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV
+http://xtv.ooo:8080//live/4262701/52719/245911.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-LOC: channel I
+http://xtv.ooo:8080//live/4262701/52719/245913.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" ,Dbc News
+http://xtv.ooo:8080//live/4262701/52719/245914.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" ,EKATTOR TV HD
+http://xtv.ooo:8080//live/4262701/52719/245915.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" ,BD-LOC: independent
+http://xtv.ooo:8080//live/4262701/52719/245916.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,BD-LOC: jamuna tv
+http://xtv.ooo:8080//live/4262701/52719/245917.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-LOC: R PLUS
+http://xtv.ooo:8080//live/4262701/52719/245918.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" ,Mohona tv
+http://xtv.ooo:8080//live/4262701/52719/245920.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: DHOOM MUSIC
+http://xtv.ooo:8080//live/4262701/52719/245921.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
+http://xtv.ooo:8080//live/4262701/52719/245922.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" ,BD | BOISHAKHI TV HD
+http://xtv.ooo:8080//live/4262701/52719/245923.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: ntv
+http://xtv.ooo:8080//live/4262701/52719/245924.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" ,SOMOY tv NEWS
+http://xtv.ooo:8080//live/4262701/52719/245925.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,Deepto tv
+http://xtv.ooo:8080//live/4262701/52719/245927.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" ,Aakaash
+http://xtv.ooo:8080//live/4262701/52719/245928.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,BD: Ananda TV
+http://xtv.ooo:8080//live/4262701/52719/245929.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: BTV-
+http://xtv.ooo:8080//live/4262701/52719/245930.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Ruposhi Bangla
+http://xtv.ooo:8080//live/4262701/52719/245932.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: sangeet bangla
+http://xtv.ooo:8080//live/4262701/52719/245933.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD: GaanbAngla Tv
+http://xtv.ooo:8080//live/4262701/52719/245935.ts
+#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: Ekushey TV
+http://xtv.ooo:8080//live/4262701/52719/245937.ts
+#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: Nagorik tv
+http://xtv.ooo:8080//live/4262701/52719/245939.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emblem_of_the_Jatiya_Sangsad.svg/2048px-Emblem_of_the_Jatiya_Sangsad.svg.png" ,bd-loc: SANGSAD BANGLADESH
+http://xtv.ooo:8080//live/4262701/52719/245940.ts
+#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: R PLUS GOLD
+http://xtv.ooo:8080//live/4262701/52719/245941.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD | NEWS TIME TV
+http://xtv.ooo:8080//live/4262701/52719/245942.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,BD: EKHON TV
+http://xtv.ooo:8080//live/4262701/52719/245943.ts
+#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: SA TV
+http://xtv.ooo:8080//live/4262701/52719/245945.ts
+#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: bijoy tv
+http://xtv.ooo:8080//live/4262701/52719/245946.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-Loc: channel S BD
+http://xtv.ooo:8080//live/4262701/52719/245947.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD-Loc: Nexus TV
+http://xtv.ooo:8080//live/4262701/52719/245949.ts
+#EXTINF:-1 group-title="BANGLADESH" ,Bd-loc: Tv9 bangla
+http://xtv.ooo:8080//live/4262701/52719/245950.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj" ,BD: MOVIE BANGLA
+http://xtv.ooo:8080//live/4262701/52719/245951.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOYXIeK79V_LpWCfGMDVyHvm65EaId7IfkUHFh=s900-c-k-c0x00ffffff-no-rj" ,BD: ENTER 10 BANGLA
+http://xtv.ooo:8080//live/4262701/52719/245954.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" ,BD | DURONTO TV
+http://xtv.ooo:8080//live/4262701/52719/245955.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" ,BD | BANGLA VISION
+http://xtv.ooo:8080//live/4262701/52719/245957.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" ,SONY YAY!
+http://xtv.ooo:8080//live/4262701/52719/245959.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/qR1X9V5j/nbr-tv.png" ,BD | NRB TV HD
+http://xtv.ooo:8080//live/4262701/52719/245962.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.pinimg.com/474x/58/a9/73/58a97334970cc43ef4a9a558c3c4f806.jpg" ,BD | MY TV
+http://xtv.ooo:8080//live/4262701/52719/245964.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://lh3.googleusercontent.com/-30dX2gAbWBA/XrWrVwyUkSI/AAAAAAAAAnE/CIy_3loKQ34fED9Azwynih_T73E8is9jQCLcBGAsYHQ/w680/ATNMusic.png" ,BD | ATN MUSIC
+http://xtv.ooo:8080//live/4262701/52719/245965.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" ,BD | DISCOVERY BANGLA
+http://xtv.ooo:8080//live/4262701/52719/245966.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" ,NAT GEO BANGLA
+http://xtv.ooo:8080//live/4262701/52719/245967.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" ,BD: TRAVELXP BANGLA
+http://xtv.ooo:8080//live/4262701/52719/245968.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" ,BD: CHANNEL 24
+http://xtv.ooo:8080//live/4262701/52719/245969.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" ,BD | SONY AATH
+http://xtv.ooo:8080//live/4262701/52719/245989.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1582805167-29769965.png?v=4.1.1" ,BTV CTG
+http://xtv.ooo:8080//live/4262701/52719/245990.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" ,ABP ANANDA
+http://xtv.ooo:8080//live/4262701/52719/245991.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/02/News18-Bangla.jpg" ,NEWS 18 BANGLA
+http://xtv.ooo:8080//live/4262701/52719/245992.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQTD0TNVV6sAql7Idu2YuSO5M14buCwGQQmOZac=s900-c-k-c0x00ffffff-no-rj" ,JONMO BHUMI TV **
+http://xtv.ooo:8080//live/4262701/52719/246001.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-bangla-21-8660.jpg" ,BANGLA 21 TV
+http://xtv.ooo:8080//live/4262701/52719/246003.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://aamarbanglachannel.in/wp-content/uploads/2021/07/cropped-Aamar-Bangla-Logo.jpg" ,BD | AMAR BANGLA
+http://xtv.ooo:8080//live/4262701/52719/246007.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://play-lh.googleusercontent.com/5kkuqfLE8ukxWVOkObzhiVO37shyj_DnuQL4qZEAKd4qaMhBF36H4mxs4ivLtvTF7nc" ,BD-UK: ATN BANGLA
+http://xtv.ooo:8080//live/4262701/52719/246010.ts
+#EXTINF:-1 group-title="BANGLADESH" ,BD: channel S UK
+http://xtv.ooo:8080//live/4262701/52719/301102.ts
+#EXTINF:-1 group-title="BANGLADESH" ,IN: Republic Bangla
+http://xtv.ooo:8080//live/4262701/52719/355824.ts
 #EXTINF:-1 group-title="SPORTS CRICKET" tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" ,T SPORTS 
 http://bd.bdix.xyz:8880/live/789865437/789865437/1404.ts
 #EXTINF:-1 group-title="SPORTS CRICKET" tvg-logo="https://github.com/project-a-app/png/raw/main/tsportshd%40.png" ,T SPORTS HD 
@@ -909,147 +1049,6 @@ http://xtv.ooo:8080//live/4262701/52719/363005.ts
 http://xtv.ooo:8080//live/4262701/52719/363006.ts
 #EXTINF:-1 group-title="INDIAN | DOCUMENTARY" ,DOC | Wildlife HINDI
 http://xtv.ooo:8080//live/4262701/52719/363002.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cbntvusa.net/wp-content/uploads/2024/11/cbn-tv-usa.webp" tvg-id="zeebanglahd.in" ,CVN TV USA
-http://161.248.188.101/imran_vai/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://play-lh.googleusercontent.com/Wt4roHkaHt6TDLjp97T1OwCQVe1--PLdQd_nfDXqKmcUJxl-bx6PBM6qo6l8sFA5gw" tvg-id="zeebanglahd.in" ,PROJONMO TV
-http://161.248.188.101/imran_vai1/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" tvg-id="zeebanglahd.in" ,IND-Bangla: Zee Bangla HD
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami.jpg" tvg-id="zeebanglahd.in" ,SAMI TV HD
-http://161.248.188.101/bdixiptvbd_sami.tv/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Colors Bangla
-http://xtv.ooo:8080//live/4262701/52719/245895.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" tvg-id="zeebanglacinema.in" ,IND-Bangla: Zee Bangla Cinema
-http://xtv.ooo:8080//live/4262701/52719/245897.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" tvg-id="starjalshahd.in" ,IND-Bangla: Star Jalsa HD
-http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/534.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" ,IND-Bangla: Jalsa Movies HD
-http://xtv.ooo:8080//live/4262701/52719/245900.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Gazi TV
-http://161.248.188.101/Gazi_tv-bdixiptvbd.com/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" ,BD-loc: Channel 9
-http://xtv.ooo:8080//live/4262701/52719/245902.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" ,BD-loc: NEWS 24
-http://xtv.ooo:8080//live/4262701/52719/245903.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Masranga HD
-http://xtv.ooo:8080//live/4262701/52719/245904.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" ,BD-LOC: ATN News
-http://xtv.ooo:8080//live/4262701/52719/245905.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,IND-Bangla: SUN Bangla
-http://xtv.ooo:8080//live/4262701/52719/245906.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-LOC: 71banglatv
-http://xtv.ooo:8080//live/4262701/52719/245907.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" ,BD-LOC: Asian tv
-http://xtv.ooo:8080//live/4262701/52719/245908.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,BD-LOC: ATN Bangla
-http://xtv.ooo:8080//live/4262701/52719/245909.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png" ,BD-LOC: Bangla Tv
-http://xtv.ooo:8080//live/4262701/52719/245910.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV
-http://xtv.ooo:8080//live/4262701/52719/245911.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-LOC: channel I
-http://xtv.ooo:8080//live/4262701/52719/245913.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" ,Dbc News
-http://xtv.ooo:8080//live/4262701/52719/245914.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" ,EKATTOR TV HD
-http://xtv.ooo:8080//live/4262701/52719/245915.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" ,BD-LOC: independent
-http://xtv.ooo:8080//live/4262701/52719/245916.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,BD-LOC: jamuna tv
-http://xtv.ooo:8080//live/4262701/52719/245917.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-LOC: R PLUS
-http://xtv.ooo:8080//live/4262701/52719/245918.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" ,Mohona tv
-http://xtv.ooo:8080//live/4262701/52719/245920.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: DHOOM MUSIC
-http://xtv.ooo:8080//live/4262701/52719/245921.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
-http://xtv.ooo:8080//live/4262701/52719/245922.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" ,BD | BOISHAKHI TV HD
-http://xtv.ooo:8080//live/4262701/52719/245923.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: ntv
-http://xtv.ooo:8080//live/4262701/52719/245924.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" ,SOMOY tv NEWS
-http://xtv.ooo:8080//live/4262701/52719/245925.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,Deepto tv
-http://xtv.ooo:8080//live/4262701/52719/245927.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" ,Aakaash
-http://xtv.ooo:8080//live/4262701/52719/245928.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,BD: Ananda TV
-http://xtv.ooo:8080//live/4262701/52719/245929.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: BTV-
-http://xtv.ooo:8080//live/4262701/52719/245930.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: Ruposhi Bangla
-http://xtv.ooo:8080//live/4262701/52719/245932.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-loc: sangeet bangla
-http://xtv.ooo:8080//live/4262701/52719/245933.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD: GaanbAngla Tv
-http://xtv.ooo:8080//live/4262701/52719/245935.ts
-#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: Ekushey TV
-http://xtv.ooo:8080//live/4262701/52719/245937.ts
-#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: Nagorik tv
-http://xtv.ooo:8080//live/4262701/52719/245939.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emblem_of_the_Jatiya_Sangsad.svg/2048px-Emblem_of_the_Jatiya_Sangsad.svg.png" ,bd-loc: SANGSAD BANGLADESH
-http://xtv.ooo:8080//live/4262701/52719/245940.ts
-#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: R PLUS GOLD
-http://xtv.ooo:8080//live/4262701/52719/245941.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD | NEWS TIME TV
-http://xtv.ooo:8080//live/4262701/52719/245942.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,BD: EKHON TV
-http://xtv.ooo:8080//live/4262701/52719/245943.ts
-#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: SA TV
-http://xtv.ooo:8080//live/4262701/52719/245945.ts
-#EXTINF:-1 group-title="BANGLADESH" ,bd-loc: bijoy tv
-http://xtv.ooo:8080//live/4262701/52719/245946.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-Loc: channel S BD
-http://xtv.ooo:8080//live/4262701/52719/245947.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD-Loc: Nexus TV
-http://xtv.ooo:8080//live/4262701/52719/245949.ts
-#EXTINF:-1 group-title="BANGLADESH" ,Bd-loc: Tv9 bangla
-http://xtv.ooo:8080//live/4262701/52719/245950.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj" ,BD: MOVIE BANGLA
-http://xtv.ooo:8080//live/4262701/52719/245951.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOYXIeK79V_LpWCfGMDVyHvm65EaId7IfkUHFh=s900-c-k-c0x00ffffff-no-rj" ,BD: ENTER 10 BANGLA
-http://xtv.ooo:8080//live/4262701/52719/245954.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" ,BD | DURONTO TV
-http://xtv.ooo:8080//live/4262701/52719/245955.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" ,BD | BANGLA VISION
-http://xtv.ooo:8080//live/4262701/52719/245957.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" ,SONY YAY!
-http://xtv.ooo:8080//live/4262701/52719/245959.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/qR1X9V5j/nbr-tv.png" ,BD | NRB TV HD
-http://xtv.ooo:8080//live/4262701/52719/245962.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.pinimg.com/474x/58/a9/73/58a97334970cc43ef4a9a558c3c4f806.jpg" ,BD | MY TV
-http://xtv.ooo:8080//live/4262701/52719/245964.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://lh3.googleusercontent.com/-30dX2gAbWBA/XrWrVwyUkSI/AAAAAAAAAnE/CIy_3loKQ34fED9Azwynih_T73E8is9jQCLcBGAsYHQ/w680/ATNMusic.png" ,BD | ATN MUSIC
-http://xtv.ooo:8080//live/4262701/52719/245965.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" ,BD | DISCOVERY BANGLA
-http://xtv.ooo:8080//live/4262701/52719/245966.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" ,NAT GEO BANGLA
-http://xtv.ooo:8080//live/4262701/52719/245967.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" ,BD: TRAVELXP BANGLA
-http://xtv.ooo:8080//live/4262701/52719/245968.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" ,BD: CHANNEL 24
-http://xtv.ooo:8080//live/4262701/52719/245969.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" ,BD | SONY AATH
-http://xtv.ooo:8080//live/4262701/52719/245989.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1582805167-29769965.png?v=4.1.1" ,BTV CTG
-http://xtv.ooo:8080//live/4262701/52719/245990.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" ,ABP ANANDA
-http://xtv.ooo:8080//live/4262701/52719/245991.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/02/News18-Bangla.jpg" ,NEWS 18 BANGLA
-http://xtv.ooo:8080//live/4262701/52719/245992.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQTD0TNVV6sAql7Idu2YuSO5M14buCwGQQmOZac=s900-c-k-c0x00ffffff-no-rj" ,JONMO BHUMI TV **
-http://xtv.ooo:8080//live/4262701/52719/246001.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-bangla-21-8660.jpg" ,BANGLA 21 TV
-http://xtv.ooo:8080//live/4262701/52719/246003.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://aamarbanglachannel.in/wp-content/uploads/2021/07/cropped-Aamar-Bangla-Logo.jpg" ,BD | AMAR BANGLA
-http://xtv.ooo:8080//live/4262701/52719/246007.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://play-lh.googleusercontent.com/5kkuqfLE8ukxWVOkObzhiVO37shyj_DnuQL4qZEAKd4qaMhBF36H4mxs4ivLtvTF7nc" ,BD-UK: ATN BANGLA
-http://xtv.ooo:8080//live/4262701/52719/246010.ts
-#EXTINF:-1 group-title="BANGLADESH" ,BD: channel S UK
-http://xtv.ooo:8080//live/4262701/52719/301102.ts
-#EXTINF:-1 group-title="BANGLADESH" ,IN: Republic Bangla
-http://xtv.ooo:8080//live/4262701/52719/355824.ts
 #EXTM3U
 #EXTINF:-1 group-title=" ISLAMIC" ,MADNI TV
 http://opplextv.cyou:8080/258036/258036/2.ts
