@@ -86,8 +86,6 @@ http://bd.bdix.xyz:8880/live/789865437/789865437/1296.ts
 http://bd.bdix.xyz:8880/live/789865437/789865437/16510.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1280px-Rtv_bangladesh.svg.png" ,RTV-FHD
 http://bd.bdix.xyz:8880/live/789865437/789865437/1297.ts
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="http://tv.bdtype.com/uploads/tv_image/rtv-music.png" ,RTV-MUSIC
-http://bd.bdix.xyz:8880/live/789865437/789865437/4566.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTs-UbDtNm94uRZQ3PYFoHIVx9FFM1f25xlz9vSPg=s900-c-k-c0x00ffffff-no-rj" ,ASIAN TV
 http://bd.bdix.xyz:8880/live/789865437/789865437/1306.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTs-UbDtNm94uRZQ3PYFoHIVx9FFM1f25xlz9vSPg=s900-c-k-c0x00ffffff-no-rj" ,ASIAN TV HD
@@ -96,10 +94,8 @@ http://bd.bdix.xyz:8880/live/789865437/789865437/2727.ts
 http://bd.bdix.xyz:8880/live/789865437/789865437/1307.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2486b315-2a26-4277-ae42-7018d19f083e/c1f823bd-68eb-4f5d-9961-7f67ef78c469.jpg" ,DESH TV HD
 http://bd.bdix.xyz:8880/live/789865437/789865437/1320.ts
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.pinimg.com/736x/8d/fc/d1/8dfcd1da5109712a3263e0361153a62a.jpg" ,DEEPTO-TV
-http://bd.bdix.xyz:8880/live/789865437/789865437/1316.ts
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" ,DEEPTO TV HD
-http://bd.bdix.xyz:8880/live/789865437/789865437/2659.ts
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.pinimg.com/736x/8d/fc/d1/8dfcd1da5109712a3263e0361153a62a.jpg" ,DEEPTO-TV HD
+http://161.248.188.101/dipto_tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW_0dQEjwhReWu9w0BtzMZaGJuvN_VHZtCQg&usqp=CAU" ,CHANNEL 9
 http://bd.bdix.xyz:8880/live/789865437/789865437/2316.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,BOISHAKHI-TV
@@ -142,10 +138,8 @@ http://bd.bdix.xyz:8880/live/789865437/789865437/16580.ts
 http://bd.bdix.xyz:8880/live/789865437/789865437/1339.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" ,ATN NEWS HD
 http://bd.bdix.xyz:8880/live/789865437/789865437/1300.ts
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" ,SOMOY NEWS
-http://bd.bdix.xyz:8880/live/789865437/789865437/1333.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" ,SOMOY NEWS HD
-http://bd.bdix.xyz:8880/live/789865437/789865437/3178.ts
+http://161.248.188.101/Somoy_TV/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAXdQqMTgdpP377689XD9oOtCppiFsKTzGg&usqp=CAU" ,JAMUNA TV
 http://bd.bdix.xyz:8880/live/789865437/789865437/1332.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAXdQqMTgdpP377689XD9oOtCppiFsKTzGg&usqp=CAU" ,JAMUNA TV HD
