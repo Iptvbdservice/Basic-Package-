@@ -139,7 +139,7 @@ http://bd.bdix.xyz:8880/live/789865437/789865437/1339.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" ,ATN NEWS HD
 http://bd.bdix.xyz:8880/live/789865437/789865437/1300.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" ,SOMOY NEWS HD
-http://161.248.188.101/Somoy_TV/index.m3u8
+http://161.248.188.101/Somoy_TV.Mono/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAXdQqMTgdpP377689XD9oOtCppiFsKTzGg&usqp=CAU" ,JAMUNA TV
 http://bd.bdix.xyz:8880/live/789865437/789865437/1332.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAXdQqMTgdpP377689XD9oOtCppiFsKTzGg&usqp=CAU" ,JAMUNA TV HD
