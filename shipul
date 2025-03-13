@@ -665,8 +665,8 @@ http://xtv.ooo:8080//live/4262701/52719/245895.ts
 http://kst.moonplex.net:8080/CH4/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" tvg-id="zeebanglacinema.in" ,IND-Bangla: Zee Bangla Cinema
 http://xtv.ooo:8080//live/4262701/52719/245897.ts
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" tvg-id="starjalshahd.in" ,Star Jalsa HD
-http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/534.ts
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://images.dwncdn.net/images/t_app-icon-l/p/d2ef1efc-8b3b-4646-80c2-7bc39155a106/3907200086/star-jalsha-tv-hd-serial-info-logo" tvg-id="starjalshahd.in" ,Star Jalsa HD
+http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" ,Jalsa Movies HD
 http://xtv.ooo:8080//live/4262701/52719/245900.ts
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,SUN Bangla
