@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="CRICKET" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/03/20/ipl_x_toffee_visual.png" ,IPL LIVE 2025
-http://c1.frsports.info/IPLENG1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/03/visionhd.jpg" ,VISION HD BDIX
+http://161.248.188.202/visionhd/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/8/85/TJ_LOGO.jpg/revision/latest?cb=20160320180558" ,TOM & JERRY
 http://xtv.ooo:8080//live/4262701/52719/329247.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" ,NICK BANGLA
