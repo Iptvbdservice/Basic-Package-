@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/3e766841707f8a394d34393f7830c9c4" tvg-id="15" , Channel 24
 https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/001f807e38f94ec504622c0e8358c008" tvg-id="17" , ATN News
-https://aynaxpranto.vercel.app/api/stream/a0a29f90-f7c2-4cc2-b0b4-667253585b84.m3u8
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/dc5a9964ef9d475ff86f609684e127a2" tvg-id="18" , Independent TV
 https://aynaxpranto.vercel.app/api/stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/51a07e1b00483f51e0bd53a30f2c4c13" tvg-id="13" , Boishakhi TV
@@ -41,8 +41,8 @@ https://aynaxpranto.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m
 https://aynaxpranto.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/85e20cee815e7ee532133ad7ae4ac571" tvg-id="5" , ATN Bangla
 https://aynaxpranto.vercel.app/api/stream/9046949b-9847-4b5d-96c1-e82b0734444b.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/21bfdd29c834c89ed523ac5eb73f3856" tvg-id="6" , ETV
-https://aynaxpranto.vercel.app/api/stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/21bfdd29c834c89ed523ac5eb73f3856" tvg-id="6" , EKUSHEY TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/79e9c75994c011fde97748ff39d5ba68" tvg-id="7" , Maasranga TV
 https://aynaxpranto.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/2ea72603615c5a81e098d12342ddc3b4" tvg-id="14" , Channel 9
