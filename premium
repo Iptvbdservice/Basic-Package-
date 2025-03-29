@@ -1,14 +1,113 @@
 #EXTM3U
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/03/visionhd.jpg" ,VISION HD BDIX
-http://161.248.188.202/visionhd/index.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/3e766841707f8a394d34393f7830c9c4" tvg-id="15" , Channel 24
+https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/001f807e38f94ec504622c0e8358c008" tvg-id="17" , ATN News
+https://aynaxpranto.vercel.app/api/stream/a0a29f90-f7c2-4cc2-b0b4-667253585b84.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/dc5a9964ef9d475ff86f609684e127a2" tvg-id="18" , Independent TV
+https://aynaxpranto.vercel.app/api/stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/51a07e1b00483f51e0bd53a30f2c4c13" tvg-id="13" , Boishakhi TV
+https://aynaxpranto.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/9e279836b9a059fdbb812eee8bccd4e8" tvg-id="29" , NEXUS TV
+https://aynaxpranto.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/9da40c7f6b2ad7315ffd3191ce75d0eb" tvg-id="21" , Ekhon TV
+https://aynaxpranto.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/63df5e0bad98bac21d24e6f3f50d2891" tvg-id="24" , Bangla TV
+https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/d0ce1e83699ef39de269d008206195af" tvg-id="30" , Bijoy TV
+https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/7be5b99c1df304d14cfec95e8d69b0c2" tvg-id="28" , Mohona TV
+https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/7cf2b06797fbf033a81f5d253fd6adcb" tvg-id="27" , Jamuna TV
+https://aynaxpranto.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-id="25" , Ekattor TV
+https://aynaxpranto.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/5454f8b59b088ef70819cb2c3267da57" tvg-id="32" , My TV
+https://aynaxpranto.vercel.app/api/stream/c0480a4a-f066-4a20-9f7d-73bbd852260f.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/ba6a7d0b4785ac8d1c5b53ce412f3e6a" tvg-id="9" , Somoy News TV
+https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/82a90bc541e05dcfdd05f4f84b1ad0a1" tvg-id="12" , Desh TV
+https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/f839442c4ee34248b3dbce6edd44d90b" tvg-id="19" , SA TV
+https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/3796fc1aca68618c57d39685a2762f94" tvg-id="2" , NTV
+https://aynaxpranto.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/aa4fd179581acb998adc029d5b0a5fc8" tvg-id="33" , Ananda TV
+https://aynaxpranto.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/80d96d4a6b482d387a1a6b36f215c2d4" tvg-id="3" , Bangla Vision
+https://aynaxpranto.vercel.app/api/stream/21e75798-3b6a-4214-9d93-b3fecaa4e700.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/31a012aaae459ceec831726c0bc0c500" tvg-id="1" , Channel I
+https://aynaxpranto.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/ec81d49a4356db94d1bf54d0ab3ee504" tvg-id="4" , RTV
+https://aynaxpranto.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/85e20cee815e7ee532133ad7ae4ac571" tvg-id="5" , ATN Bangla
+https://aynaxpranto.vercel.app/api/stream/9046949b-9847-4b5d-96c1-e82b0734444b.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/21bfdd29c834c89ed523ac5eb73f3856" tvg-id="6" , ETV
+https://aynaxpranto.vercel.app/api/stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/79e9c75994c011fde97748ff39d5ba68" tvg-id="7" , Maasranga TV
+https://aynaxpranto.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/2ea72603615c5a81e098d12342ddc3b4" tvg-id="14" , Channel 9
+https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/dafda2a4f06d7f8ed7cc5883c23803d9" tvg-id="8" , Deepto TV
+https://aynaxpranto.vercel.app/api/stream/0be12af9-e713-4c65-b4ed-b735793a0418.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/80dd1b2e3f8a679d1ffb4e0de28da68c" tvg-id="10" , T Sports HD
+https://aynaxpranto.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/0fd66b697ff9717751acf57347acb615" tvg-id="16" , Asian TV
+https://aynaxpranto.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/9b4249404931f8d4ec18da78326748a8" tvg-id="22" , News 24 BD
+https://aynaxpranto.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/ee760ffef5e5259d5ccbf5c3441fcde3" tvg-id="11" , Gazi TV
+https://aynaxpranto.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9" tvg-id="23" , Duronto TV
+https://aynaxpranto.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/bd294eb45333642d627ce136d9cade93" tvg-id="20" , DBC News
+https://aynaxpranto.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/feb62086aa403c6f3463762e25ba82a5" tvg-id="31" , Global TV
+https://aynaxpranto.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/1c22bca22dc77c03b5ed6349bc773079" tvg-id="34" , A sports
+https://aynaxpranto.vercel.app/api/stream/a3d48c46-7902-45e2-abf9-0fab60c4d117.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/40d9dea48ceccd9214e91bbd1b9216e7" tvg-id="35" , P TV Sports
+https://aynaxpranto.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/71bd11ad565490d6fc665b8298902801" tvg-id="36" , Fox Sports 2
+https://aynaxpranto.vercel.app/api/stream/93c7e57d-e666-488a-aec9-a339a7e5eb74.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/73f8edb172a31a81cf7c35ed158034d9" tvg-id="37" , Star Sports 1 HD
+https://aynaxpranto.vercel.app/api/stream/f064e069-8861-43d5-ac79-828b029a50a1.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/e436da5b5be7f4f292b019b94ae4ad8b" tvg-id="38" , Star Sports Select 2 HD
+https://aynaxpranto.vercel.app/api/stream/6cce2b86-f371-4184-b288-988de0607926.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/d3365eb204da4231533eec6c43c95e62" tvg-id="39" , Sports 18
+https://aynaxpranto.vercel.app/api/stream/f1e1b6c8-9a1b-492d-bdf9-b63295e6073e.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/75b6c311d82e78f5e4d9243f3b0e9d91" tvg-id="40" , Bein Sports
+https://aynaxpranto.vercel.app/api/stream/490e6a84-17e2-42bb-8725-66af0c067239.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/eeb56e1b3b2517979d71fd4b5c653a74" tvg-id="41" , BT Sports 2
+https://aynaxpranto.vercel.app/api/stream/10bb1341-2aa8-4be2-8a25-76a75f5a3ee7.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/8dffd947454d0e63ab2f0d73a62006eb" tvg-id="42" , Espn
+https://aynaxpranto.vercel.app/api/stream/e263cd7f-45e9-4bc6-a350-bf968eb51b14.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/3f3e598e5724e036f4c92f0e2ba97e18" tvg-id="43" , TSN 2
+https://aynaxpranto.vercel.app/api/stream/32d28b2c-aded-481d-833b-cee57cecfc93.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-id="44" , Baby TV
+https://aynaxpranto.vercel.app/api/stream/5c62ff81-0efc-42eb-9dbe-65402fa54afb.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/53b61525cccd385419ef395273f66077" tvg-id="45" , Cartoon Network
+https://aynaxpranto.vercel.app/api/stream/e73ffada-f80a-4c23-9bd8-76142e41c389.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/a9f1e8ac5dbaf8b29ac51e8392e49914" tvg-id="46" , PBS Kids
+https://aynaxpranto.vercel.app/api/stream/d6d46db7-a14a-45ad-b576-b40c80406134.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/8783ac8c37192c21051405ea2dc57ffa" tvg-id="47" , Disney JR
+https://aynaxpranto.vercel.app/api/stream/a9791899-66f2-4b94-9521-c333498f7ab9.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/54038789ddbd8064f15d6a4e6ca739bc" tvg-id="48" , Nicktoons
+https://aynaxpranto.vercel.app/api/stream/3830c379-539b-4e18-9943-9664574c850b.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://s3.aynaott.com/storage/4ff26fcdc9c7fdebcd79d61893271f69" tvg-id="49" , Nickjr
+https://aynaxpranto.vercel.app/api/stream/c197b1bc-8909-4176-a50f-f855a4a51c1f.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/03/20/ipl_x_toffee_visual.png" ,IPL LIVE 2025
+http://161.248.188.202/toffe.ipl/vip/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/8/85/TJ_LOGO.jpg/revision/latest?cb=20160320180558" ,TOM & JERRY
 http://xtv.ooo:8080//live/4262701/52719/329247.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" ,NICK BANGLA
 http://103.122.74.6:8888/hls/NICK.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" ,Sony yay
-http://xtv.ooo:8080//live/4262701/52719/26187.ts
+https://linkchur.top/tv/tf/live.php?id=sonyyay&e=.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" ,24/7 MOTU PATLU
 http://xtv.ooo:8080//live/4262701/52719/311373.ts
+#EXTINF:-1 group-title="BANGLADESHI"tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/03/visionhd.jpg" ,VISION HDTV BDIX
+http://161.248.188.202/visionhd/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsFcK_840UCSTgKaUusMM95lOHvmZwWTWLQ&s" ,DEEPTO TV BDIX
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://cdn.ekattor.online/contents/themes/public/style/images/logo.png" ,EKATTOR-TV (BDIX)
@@ -16,7 +115,7 @@ http://opplextv.cyou:8080/live/258036/258036/245915.ts
 #EXTINF:-1 group-title="BANGLADESHI" ,CHANNEL 24 BDIX
 http://tv.mototvlive.net:8880/live/bdixiptvbd/.com/15849.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" ,SOMOY TV (BDIX)
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" ,DBC NEWS BDIX
 http://opplextv.cyou:8080/live/258036/258036/245914.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/7GKxT7d/logo.png" ,NEWS 24 (BDIX)
@@ -550,9 +649,9 @@ http://xtv.ooo:8080//live/4262701/52719/383184.ts
 http://xtv.ooo:8080//live/4262701/52719/383183.ts
 #EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" tvg-id="sonybbcearthhd.in" ,IN | BBC EART HINDI
 http://xtv.ooo:8080//live/4262701/52719/206278.ts
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-id="travelxphd.in" ,IND: Travel XP Eng
+#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQEPyVLZzEX_og/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520096620801?e=2147483647&v=beta&t=oIOlZ6pJfxqTfhUD1rUR_8kyW-_VdXLb9-J6f8EOZw8" ,Travel XP Eng
 http://xtv.ooo:8080//live/4262701/52719/206279.ts
-#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
+#EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,Travel_XP Hindi
 http://xtv.ooo:8080//live/4262701/52719/206280.ts
 #EXTINF:-1 group-title="INDIAN | DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" tvg-id="animalplanethd.in" ,IND: Animal Planet Hindi
 http://xtv.ooo:8080//live/4262701/52719/206282.ts
@@ -596,14 +695,16 @@ http://103.122.74.6:8888/hls/zeebangla.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://yt3.googleusercontent.com/ncA0LAgyfSe4g3rjUufobGO3UzOspZRYeti4rVvgeO7z2fv0BoedKpA3CvkU4sCDEr6ujzMi=s900-c-k-c0x00ffffff-no-rj" ,SOMAY KOLKATA
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" tvg-id="zeebanglacinema.in" ,IND-Bangla: Zee Bangla Cinema
-http://xtv.ooo:8080//live/4262701/52719/245897.ts
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" tvg-id="zeebanglacinema.in" ,Zee Bangla Cinema
+http://xtv.ooo:8080//live/4262701/52719/245897.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://images.dwncdn.net/images/t_app-icon-l/p/d2ef1efc-8b3b-4646-80c2-7bc39155a106/3907200086/star-jalsha-tv-hd-serial-info-logo" tvg-id="starjalshahd.in" ,Star Jalsa HD
 http://103.122.74.6:8888/hls/starJalsha.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Jalsha-movies.png/revision/latest?cb=20190806073643" ,Jalsa Movies HD bdix
 http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,SUN Bangla
 http://xtv.ooo:8080//live/4262701/52719/245906.ts
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://media.licdn.com/dms/image/v2/C5612AQEPyVLZzEX_og/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520096620801?e=2147483647&v=beta&t=oIOlZ6pJfxqTfhUD1rUR_8kyW-_VdXLb9-J6f8EOZw8" ,TRAVEL XP BANGLA
+http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
 #EXTINF:-1 group-title="KOLKATA" ,BD-LOC: R PLUS
 http://xtv.ooo:8080//live/4262701/52719/245918.ts
 #EXTINF:-1 group-title="KOLKATA" ,BD-loc: DHOOM MUSIC
