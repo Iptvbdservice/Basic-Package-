@@ -1,7 +1,13 @@
 join now bdixiptvbd.com
 #EXTM3U
-#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.supaimg.com/958b036d-157f-4906-b906-c41a68e0416d.jpg" ,ওয়াজ মাহফিল 📺
-JAGOBD
+#EXTINF:-1 tvg-id="221" tvg-name="ENGLISH PREMIUM LEAUGE " tvg-logo="https://bdixiptvbd.com/live/epl-channel.png" group-title="LIVE EVENT", ENGLISH PREMIUM LEAUGE
+https://vz-422a9f06-c69.b-cdn.net/aabb07ae-d0a4-470b-9444-da5e5922d640/playlist.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="LIVE FOOTBALL" tvg-logo="https://bdixiptvbd.com/live/live-football-match.png" group-title="LIVE EVENT", LIVE FOOTBALL
+https://tvsen6.aynaott.com/sportsfirsttv/tracks-v1a1/mono.ts.m3u8?e=1753741209&token=75063341437ee0634fd7db0064be990f&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-id="221" tvg-name="FANCODE" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg" group-title="LIVE EVENT", Ban-vs-Ned FAN CODE
+https://globalplay.live/fancode/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/135849_english_hls_26062c147728112ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="T Sports 2 HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="Sports-খেলা", T Sports 2 HD
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Islam Channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg" ,Salaam Tv 📺
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 #EXTINF:-1 group-title="Islam Channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" ,Deen TV UK 📺
