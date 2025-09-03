@@ -118,6 +118,327 @@ http://172.16.29.3:8090/hls/ALjazeeraNews.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",9xm
 http://172.16.29.3:8090/hls/9xm.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Local Source: IBS TV",IBS TV 1
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",IBS TV 2
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Ekushey TV
+https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Live Bangla TV
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Star Sports
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Channel A1
+https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1461
+https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1459
+https://cdn-2.pishow.tv/live/1459/1459_0.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1143
+https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1039
+https://cdn-4.pishow.tv/live/1039/1039_0.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",RTA TV 1
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/04.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Star Sports Select HD1
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/stream_0.m3u8?uid=68409640
+#EXTINF:-1 group-title="Local Source: IBS TV",Star Jalsha HD
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
+#EXTINF:-1 group-title="Local Source: IBS TV",Star Movies HD
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/stream_0.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Jalsha Movies HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=1435104502
+#EXTINF:-1 group-title="Local Source: IBS TV",Colors Bengali HD
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/stream_0.m3u8?uid=4060453186
+#EXTINF:-1 group-title="Local Source: IBS TV",MBangla TV
+https://jolshabd.com/live/mbanglatv/chunklist_w141820128.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Showbox 1080p
+https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",9XM HD
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SonyLIV 1
+https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_3500.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/a8304dc8-e27a-4e42-a0b8-113259b4c47b/0.m3u8?nadimrazatv
+#EXTINF:-1 group-title="Local Source: IBS TV",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/b000b46e-1799-441c-a099-16e6441d9c1b/0.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",RTA TV 2
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SAB Live 1
+https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/af77813a-2073-40e3-ae0f-df47c7c6aa9d/3.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Channel S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",DBC News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Gazi TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 3
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 4
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 5
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 6
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 7
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 10
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 11
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Showbox 720p
+https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",9XM 1
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m3.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8?nimblesessionid=545653615
+#EXTINF:-1 group-title="Local Source: IBS TV",Bhojpuri 720p
+https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bangla 720p
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8?nimblesessionid=380987719
+#EXTINF:-1 group-title="Local Source: IBS TV",SonyLIV 2
+https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_2000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SonyLIV 3
+https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_1300.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bollywood HD 2
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/a8304dc8-e27a-4e42-a0b8-113259b4c47b/1.m3u8?nadimrazatv
+#EXTINF:-1 group-title="Local Source: IBS TV",Bollywood Classic 2
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/b000b46e-1799-441c-a099-16e6441d9c1b/1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",RTA TV 3
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/02.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SAB Live 2
+https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/af77813a-2073-40e3-ae0f-df47c7c6aa9d/2.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Asian TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Biswabangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Channel 25 USA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bangla TV
+https://tvsen6.aynaott.com/banglatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Amar Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",RTV
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Boishakhi TV
+https://tvsen6.aynaott.com/boishakhitv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",News24
+https://tvsen6.aynaott.com/news24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Mohona TV
+https://tvsen6.aynaott.com/mohonatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Channel 9
+https://tvsen6.aynaott.com/channel9/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Zoomin
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Music Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Zee Cinema
+https://smart.bengaldigital.live/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Live TV 1
+https://livecdn-bostaflix.global.ssl.fastly.net/api/b6a720edea/chunks/43cff605bb277c2fe96a78adc2d578ed470c546261c8212057c2db644890204b513a8aae95ea1aba77244a7081c081601e74bf58192a14f69ed3329b4fda6af67982ad170c17e6cc08307431b2f5de9c7be1670d95cbdb94da3288801262117e.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Sonic Bangla
+https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/stream_0.m3u8?uid=109809030
+#EXTINF:-1 group-title="Local Source: IBS TV",SAB Live 3
+https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/af77813a-2073-40e3-ae0f-df47c7c6aa9d/1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1461 B
+https://cdn-2.pishow.tv/live/1461/1461_1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1459 B
+https://cdn-2.pishow.tv/live/1459/1459_1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1143 B
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1039 B
+https://cdn-4.pishow.tv/live/1039/1039_1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Islam Channel Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Makkah Live
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SonyLIV 4
+https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_900.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",WWE
+https://smart.bengaldigital.live/WWE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",9XM 2
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m2.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Google Stream 1
+https://dai.google.com/linear/hls/pb/event/0HWMZ7VTTAi8C7Y35fcbgQ/stream/368276b5-d122-4738-ae39-c47babf1ef4f:TPE2/variant/b02a9e4291610133d628303fbeb1ec2b/bandwidth/1302083.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Showbox 480p
+https://epiconvh.akamaized.net/live/showbox/master_480.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bhojpuri 480p
+https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_480p/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bangla 480p
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 1 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 2 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 3 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 4 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 5 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 6 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 7 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 8 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 10 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 11 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Live TV 2
+https://livecdn-bostaflix.global.ssl.fastly.net/api/b6a720edea/chunks/43cff605bb277c2fe96a78adc2d578edff46f7c6e8901f8175b06ae7a9431478c5fa69e0691613b273673df0312f2f8e6b2a7fd1e0c021b2578a736d402a292d6a021eaf2a8006a66fac38800eaf6fba0c17aab12661913af5a16114d54cb6c7.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Zee Bangla Cinema
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Zee Bangla
+https://smart.bengaldigital.live/Zee-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Sun Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Desh TV
+https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Google Stream 2
+https://dai.google.com/linear/hls/pb/event/0HWMZ7VTTAi8C7Y35fcbgQ/stream/368276b5-d122-4738-ae39-c47babf1ef4f:TPE2/variant/c4f281d58db15f09664c8d5923e181a0/bandwidth/823489.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",9XM 3
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m1.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",8XM Medium
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131M/chunks.m3u8?nimblesessionid=545653615
+#EXTINF:-1 group-title="Local Source: IBS TV",Bhojpuri 360p
+https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_360p/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bangla 360p
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SonyLIV 5
+https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_664.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bollywood HD 3
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/a8304dc8-e27a-4e42-a0b8-113259b4c47b/2.m3u8?nadimrazatv
+#EXTINF:-1 group-title="Local Source: IBS TV",Bollywood Classic 3
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/b000b46e-1799-441c-a099-16e6441d9c1b/2.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SAB Live 4
+https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/af77813a-2073-40e3-ae0f-df47c7c6aa9d/0.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 1 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 2 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 3 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 4 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 5 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 6 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 7 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 8 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 9 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 10 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 11 SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Live TV 3
+https://livecdn-bostaflix.global.ssl.fastly.net/api/b6a720edea/chunks/43cff605bb277c2fe96a78adc2d578ed00251961dc3283b4e819a1ecc3804cda08ae28bf97d34788b6d122780a674334d63a97475be53036c26f62538d00e42299b44da93b9e3bb1131578c04ebfda863f1d6f0ee016853f4d987460940ffa81.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SonyLIV 6
+https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_412.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",8XM Low
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131L/chunks.m3u8?nimblesessionid=545653615
+#EXTINF:-1 group-title="Local Source: IBS TV",RTA TV 4
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/01.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Google Stream 3
+https://dai.google.com/linear/hls/pb/event/0HWMZ7VTTAi8C7Y35fcbgQ/stream/368276b5-d122-4738-ae39-c47babf1ef4f:TPE2/variant/41891dc15e9a77d51b456afd178f469d/bandwidth/464544.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bhojpuri 240p
+https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_240p/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Bangla 240p
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 1 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 2 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 3 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 4 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 5 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 6 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 7 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 8 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 9 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 10 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",BPL 11 Low
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=442000.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1461 C
+https://cdn-2.pishow.tv/live/1461/1461_2.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1459 C
+https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1143 C
+https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Pishow TV 1039 C
+https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SonyLIV 7
+https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_224.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",SonyLIV 8
+https://dtvxtream.com/sonyliv2/index.php?id=300270&file=master_108.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Gia TV 1
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",NRB EU
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Duronto TV
+https://tvsen6.aynaott.com/durontotv-live/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Gia TV 2
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Gia TV 3
+https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Nexus TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=9KL3e-RI-ky191pA0Jy7VA
+#EXTINF:-1 group-title="Local Source: IBS TV",Gia TV 4
+https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Gia TV 5
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Maasranga TV
+https://tvsen6.aynaott.com/maasrangatv/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Gia TV 6
+https://live20.bozztv.com/giatvplayout7/giatv-209618/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Gia TV 7
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",Gia TV 8
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Local Source: IBS TV",My TV Bangla
+https://mytvbangla.com/0.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="LIVE | Cricket Events" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Cricket4K.png" ,4K | Star 4K (Ads Free)
 http://b1g.ooo:80/rv/rv123/662136
 #EXTINF:-1 group-title="LIVE | Cricket Events" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/CPL2025.png" tvg-id="CheckFixtures.bossdummy" ,01. CPL | Knight Riders vs Patriots (Mon 16:00 UK)
