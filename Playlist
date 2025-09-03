@@ -7,6 +7,117 @@ https://tvsen6.aynaott.com/sportsfirsttv/tracks-v1a1/mono.ts.m3u8?e=1753741209&t
 #EXTINF:-1 tvg-id="221" tvg-name="FANCODE" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg" group-title="LIVE EVENT", Ban-vs-Ned FAN CODE
 https://globalplay.live/fancode/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/135849_english_hls_26062c147728112ta-di_h264/index.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ZeeTVHD
+http://172.16.29.3:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ZeeBanglaHD
+http://172.16.29.3:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ZeeBanglaCinemaHD
+http://172.16.29.3:8090/hls/ZeeBanglaCinemaHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",willowcrickethd
+http://172.16.29.3:8090/hls/willowcrickethd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",WillowCricket2HD
+http://172.16.29.3:8090/hls/WillowCricket2HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",tsportshd
+http://172.16.29.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",tntsports4hd
+http://172.16.29.3:8090/hls/tntsports4hd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",tntsports3hd
+http://172.16.29.3:8090/hls/tntsports3hd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",tntsports2hd
+http://172.16.29.3:8090/hls/tntsports2hd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",tntsports1hd
+http://172.16.29.3:8090/hls/tntsports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",tensportshd
+http://172.16.29.3:8090/hls/tensportshd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",StarSportsSelect2HD
+http://172.16.29.3:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",StarSportsSelect1HD
+http://172.16.29.3:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",StarSportsHindi2HD
+http://172.16.29.3:8090/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",StarSports2HD
+http://172.16.29.3:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",StarSports1HD
+http://172.16.29.3:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",StarPlusHD
+http://172.16.29.3:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",StarMoviesHD
+http://172.16.29.3:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",StarGold2HD
+http://172.16.29.3:8090/hls/StarGold2HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",SSCSports1HD
+http://172.16.29.3:8090/hls/SSCSports1HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",SonyTen5HD
+http://172.16.29.3:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",SonyTen3hd
+http://172.16.29.3:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",SonyTen2hd
+http://172.16.29.3:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",SonyTen1hd
+http://172.16.29.3:8090/hls/SonyTen1hd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",sonymaxhd
+http://172.16.29.3:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",somoytv
+http://172.16.29.3:8090/hls/somoytv.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",SkySportsCricketHD
+http://172.16.29.3:8090/hls/SkySportsCricketHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",SangeetBangla
+http://172.16.29.3:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ptvsportshd
+http://172.16.29.3:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",NetGeoHD
+http://172.16.29.3:8090/hls/NetGeoHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",NatGeoWild
+http://172.16.29.3:8090/hls/NatGeoWild.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",mastii
+http://172.16.29.3:8090/hls/mastii.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",JamunaTV
+http://172.16.29.3:8090/hls/JamunaTV.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",JalshaMoviesHD
+http://172.16.29.3:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",IndependentTV
+http://172.16.29.3:8090/hls/IndependentTV.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",GEONews
+http://172.16.29.3:8090/hls/GEONews.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",gazitvhd
+http://172.16.29.3:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",eurosportshd
+http://172.16.29.3:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Enter10Bangla
+http://172.16.29.3:8090/hls/Enter10Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",DisneyIntHD
+http://172.16.29.3:8090/hls/DisneyIntHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ColorsHD
+http://172.16.29.3:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ColorsCineplexHD
+http://172.16.29.3:8090/hls/ColorsCineplexHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ColorsBanglaHD
+http://172.16.29.3:8090/hls/ColorsBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",channelihd
+http://172.16.29.3:8090/hls/channelihd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",CGTN_NEWS
+http://172.16.29.3:8090/hls/CGTN_NEWS.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BTVNationalHD
+http://172.16.29.3:8090/hls/BTVNationalHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BeinSports1ENG
+http://172.16.29.3:8090/hls/BeinSports1ENG.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",bbcearthhd
+http://172.16.29.3:8090/hls/bbcearthhd.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",bbc_world
+http://172.16.29.3:8090/hls/bbc_world.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",AtnNews
+http://172.16.29.3:8090/hls/AtnNews.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ASportsHD
+http://172.16.29.3:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",AnimalPlanetHD
+http://172.16.29.3:8090/hls/AnimalPlanetHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",AndPictureHD
+http://172.16.29.3:8090/hls/AndPictureHD.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ALjazeeraNews
+http://172.16.29.3:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",9xm
+http://172.16.29.3:8090/hls/9xm.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="LIVE | Cricket Events" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Cricket4K.png" ,4K | Star 4K (Ads Free)
 http://b1g.ooo:80/rv/rv123/662136
 #EXTINF:-1 group-title="LIVE | Cricket Events" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/CPL2025.png" tvg-id="CheckFixtures.bossdummy" ,01. CPL | Knight Riders vs Patriots (Mon 16:00 UK)
