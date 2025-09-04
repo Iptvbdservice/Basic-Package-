@@ -9,6 +9,138 @@ https://globalplay.live/fancode/proxy.php?url=https://in-mc-fdlive.fancode.com/m
 #EXTINF:-1 group-title="IBS TV General" tvg-logo="https://bdixiptvbd.com/live/tg.png",IBS TV Stream 1
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",TV9 Bangla
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/ba9a5707-3613-4277-b23a-9b318b57e39b/0.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Live Bangla TV
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Pub IO Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Channel 2
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Pishow TV 1
+https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Amar Bangla Two
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Star Jalsha HD
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=195523006
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Jalsha Movies HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=141635045
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",T Sports 1080p
+https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1_1080&res=1080
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1716
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1711
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1706
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1704
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1702
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1701
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",TV9 Bangla Stream 2
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/c3cf52c8-57cb-4b4e-8699-eec93e9123f0/3.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",T Sports 720p
+https://live.tsports.com/?bitrate=868000&channel=tsports_live_1_720&res=720
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Somoy TV
+https://tvsen6.aynaott.com/somoytv/tracks-v1a1/mono.ts.m3u8?e=1753741201&token=8f952f655c5a7cbcfac7872ccb7c18c7&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Channel i
+https://tvsen6.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8?e=1753741199&token=29e9b3ff219922de66c032adb4d6cca5&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",T Sports
+https://tvsen5.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8?e=1753741201&token=70d44f9122b66ba1a039b015b3d9ab6b&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Channel 24
+https://tvsen6.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8?e=1753741202&token=85169db4171f59cc700c2230da1474b0&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Channel 9
+https://tvsen6.aynaott.com/channel9/tracks-v1a1/mono.ts.m3u8?e=1753741202&token=fcef513d044b3117e5604d8d6223b025&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Asian TV
+https://tvsen6.aynaott.com/asiantv/tracks-v1a1/mono.ts.m3u8?e=1753741203&token=61cdab06c09ecd648357cf4ac0679f74&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Independent TV
+https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8?e=1753741203&token=45e2d11e90b3242b1167f69dcbae7861&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Ekhon TV
+https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8?e=1753741204&token=5d53d11d328153c8c0ebbe56bf6de37e&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ATN News
+https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8?e=1753741203&token=f7e658147dc39ae5e53920108161da10&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",SA TV
+https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8?e=1753741203&token=3bba4c56325c7ade12be44d6d003375b&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Jamuna TV
+https://tvsen6.aynaott.com/jamunatv/tracks-v1a1/mono.ts.m3u8?e=1753741205&token=51b90e88fcf722380246847daaf2ba24&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",T Sports Stream 2
+https://tvsen5.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8?e=1753741223&token=286a45e3006c0b412ce19722499f2126&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",TV9 Bangla Stream 3
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/c3cf52c8-57cb-4b4e-8699-eec93e9123f0/2.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Pishow TV 2
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Pishow TV 3
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",WWE
+https://smart.bengaldigital.live/WWE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",T Sports 480p
+https://live.tsports.com/?bitrate=856000&channel=tsports_live_1_480&res=480
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1716 Video
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1711 Video
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1706 Video
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1704 Video
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1702 Video
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1701 Video
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",ETV
+https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8?e=1753741200&token=b2dcad848664a69ead35186027779c9b&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Desh TV
+https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8?e=1753741202&token=65ab91e6325bfae402d5e6c110664df7&u=9a031201-22d8-4f7e-9516-7d246a8fedc3
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",TV9 Bangla Stream 4
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/c3cf52c8-57cb-4b4e-8699-eec93e9123f0/1.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",T Sports 360p
+https://live.tsports.com/?bitrate=512000&channel=tsports_live_1_360&res=360
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1716 Video SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1711 Video SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1706 Video SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1704 Video SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1702 Video SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1701 Video SD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",TV9 Bangla Stream 5
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/c3cf52c8-57cb-4b4e-8699-eec93e9123f0/0.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",T Sports 240p
+https://live.tsports.com/?bitrate=360000&channel=tsports_live_1_240&res=240
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1716 Video LQ
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=442000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1711 Video LQ
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=442000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1706 Video LQ
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=442000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1704 Video LQ
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=442000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1702 Video LQ
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=442000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",BPK TV 1701 Video LQ
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=442000.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Pishow TV 4
+https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Pishow TV 5
+https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",T Sports 160p
+https://live.tsports.com/?bitrate=180000&channel=tsports_live_1_160&res=160
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Maasranga TV
+https://tvsen6.aynaott.com/maasrangatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",Sun Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",GTV HD
+https://tvsen6.aynaott.com/gtvhdforgame/tracks-v1a1/mono.ts.m3u8
+
+#EXTM3U
 #EXTINF:-1 group-title="IBS TV General" tvg-logo="https://bdixiptvbd.com/live/eh.png",IBS TV Stream 1
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 #EXTINF:-1 group-title="IBS TV General" tvg-logo="https://bdixiptvbd.com/live/eh.png",IBS TV Stream 2
