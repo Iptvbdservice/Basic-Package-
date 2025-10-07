@@ -3,7 +3,8 @@
 # Created by @BDIXIPTVBD.COM
 # Total channels: 315
 # Generated: 2025
-
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/womens paid .png" group-title="IBS TV Mobile Apps",IBS TV
+https://vz-9972e1c6-66e.b-cdn.net/c85d0946-f080-4aa7-a7f8-d5d5837de6cb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/live/eh.png" group-title="IBS TV Mobile Apps",IBS TV
 https://vz-9972e1c6-66e.b-cdn.net/c85d0946-f080-4aa7-a7f8-d5d5837de6cb/playlist.m3u8
@@ -9265,3 +9266,4 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/2196.m3u8
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/2206.m3u8
 #EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/2207.png" tvg-name="DISCOVERY ID" group-title="TURKISH | TV",DISCOVERY ID
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/2207.m3u8
+
