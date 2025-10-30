@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp1.png",Live Sports-1
 http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp2.png",Live Sports-2
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
+http://ibstv.cn.bdixiptvbd.com/Tsports.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp3.png",Live Sports-3
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp4.png",Live Sports-4
@@ -153,3 +153,4 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 http://nayatv.ydns.eu:80/freecric/cricfree/12027.ts
 #EXTINF:-1 group-title="Sports | By Xfireflix" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8",OT | A Sports HD
 http://nayatv.ydns.eu:80/freecric/cricfree/12026.ts
+
